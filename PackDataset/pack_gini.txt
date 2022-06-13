@@ -1,0 +1,1823 @@
+lief:sections:characteristics:MEM_EXECUTE : 0.023225370153434552
+lief:data_directories:IMPORT_TABLE:size : 0.020515615983804723
+lief:imports:kernel32.dll:num of api : 0.01864217180456792
+lief:imports:kernel32.dll:import_lookup_table_rva : 0.017382914299808143
+lief:sections:characteristics:CNT_CODE : 0.01704083695177959
+lief:sections:name::exist : 0.016719434397339614
+lief:sections:characteristics:MEM_WRITE : 0.014909164921702134
+lief:sections:characteristics:CNT_INITIALIZED_DATA : 0.014566041920193848
+lief:dos_header:used_bytes_in_the_last_page : 0.014354334387414474
+lief:dos_header:file_size_in_pages : 0.013554729314552599
+lief:dos_header:header_size_in_paragraphs : 0.01336721626463197
+lief:optional_header:sizeof_initialized_data/size : 0.01274341985041138
+lief:dos_header:initial_sp : 0.012681976228030965
+lief:sections:characteristics:CNT_UNINITIALIZED_DATA : 0.012518803445877844
+lief:sections:characteristics:MEM_READ : 0.012040073934406854
+lief:sections:name:.aspack:exist : 0.012011344022872102
+lief:optional_header:sizeof_code/size : 0.011930801293060117
+lief:dos_header:initial_ip : 0.011853086919654253
+lief:optional_header:baseof_code : 0.01164964389748448
+lief:header:numberof_sections : 0.010974244070079615
+lief:dos_header:reserved(4) : 0.01089157635842332
+lief:sections:types:UNKNOWN : 0.010771028575509331
+lief:data_directories:IAT:size : 0.01066315981329028
+lief:dos_header:initial_relative_cs : 0.010293153605185379
+lief:dos_header:reserved2(9) : 0.010157537739812584
+lief:dos_header:addressof_new_exeheader : 0.01011903331607905
+lief:sections:name:.text:entropy : 0.009836886145148684
+lief:data_directories:IAT:RVA : 0.009794862278795618
+lief:header:characteristics:DEBUG_STRIPPED : 0.009781503345473026
+lief:sections:name:.data:entropy : 0.009755728088845936
+lief:sections:name:.adata:exist : 0.009598891120727442
+lief:sections:name::entropy : 0.00941790721282564
+lief:sections:name:UPX0:exist : 0.008851984784533268
+lief:sections:name:UPX1:entropy : 0.008816915822498503
+lief:sections:name:.text:exist : 0.008756476607654929
+lief:sections:name:.aspack:entropy : 0.008647437968675623
+lief:rich_header:(build_id, id):(8444, 18) : 0.008595402843753465
+lief:sections:name:.data:exist : 0.00843313851655485
+lief:dos_header:oem_id : 0.008406391083099889
+lief:optional_header:baseof_data : 0.008385742926355303
+lief:sections:name:petite:exist : 0.00828975377887297
+lief:imports:kernel32.dll:forwarder_chain : 0.008178600818269226
+lief:sections:name:UPX1:exist : 0.008129508092985807
+lief:optional_header:major_linker_version : 0.008018537300768187
+lief:rich_header:build_id:8444 : 0.007914180632775606
+lief:sections:name:petite:entropy : 0.007777861265578589
+lief:imports:user32.dll:num of api : 0.00768370865580824
+lief:dos_header:reserved2(7) : 0.007487607105427084
+lief:optional_header:sizeof_uninitialized_data/size : 0.007355256011984667
+lief:dos_header:numberof_relocation : 0.0072474959066835196
+lief:dos_header:minimum_extra_paragraphs : 0.007037831227172602
+lief:dos_header:reserved2(3) : 0.006994227414642144
+lief:dos_header:reserved(3) : 0.0068046336471514705
+lief:optional_header:minor_linker_version : 0.006608169589064194
+lief:dos_header:reserved2(6) : 0.006268099853336401
+lief:sections:name:.rdata:entropy : 0.006266575756114734
+lief:dos_header:maximum_extra_paragraphs : 0.006014733700468405
+lief:dos_header:reserved2(1) : 0.005978873825691302
+lief:header:time_date_stamp : 0.005800905308029792
+lief:rich_header:(build_id, id):(8078, 19) : 0.005696770837525912
+lief:optional_header:addressof_entrypoint : 0.005570044711318568
+lief:dos_header:addressof_relocation_table : 0.00552807008251459
+lief:dos_header:oem_info : 0.005419860462651882
+lief:dos_header:reserved2(5) : 0.005203153638483801
+lief:rich_header:build_id:8078 : 0.005201904273669519
+lief:optional_header:sizeof_image/size : 0.005158425210224811
+lief:sections:name:.rdata:exist : 0.005119859421237436
+lief:dos_header:overlay_number : 0.004833477260674773
+lief:sections:name:.rsrc:entropy : 0.004679468355181401
+lief:data_directories:CERTIFICATE_TABLE:size : 0.004555867913963393
+lief:dos_header:checksum : 0.004534300565120657
+lief:data_directories:CERTIFICATE_TABLE:RVA : 0.0044963225824076825
+strings:probability of ! : 0.004374504240356072
+lief:imports:msvcrt.dll:num of api : 0.004362164969141561
+lief:dos_header:reserved2(2) : 0.00424931642267883
+strings:max_length : 0.00403876128229655
+lief:optional_header:checksum : 0.003912014050769516
+lief:dos_header:reserved2(8) : 0.0034174250792940535
+lief:sections:name:.rsrc:exist : 0.0033563759260672402
+lief:imports:msvcrt.dll:import_lookup_table_rva : 0.0032971890253395424
+lief:imports:msvcrt.dll:timedatestamp : 0.003286808925424293
+lief:entrypoint : 0.003165781956325569
+strings:probability of * : 0.003121489529915471
+strings:probability of t : 0.0031177021139037297
+lief:dos_header:reserved2(4) : 0.0030760942405721886
+lief:imports:advapi32.dll:num of api : 0.0030042346020852924
+strings:probability of { : 0.0028582898463703457
+lief:imports:user32.dll:import_address_table_rva : 0.0027307993613015077
+lief:data_directories:LOAD_CONFIG_TABLE:size : 0.0026675344508990577
+strings:probability of e : 0.0026309251540888676
+strings:probability of " : 0.002497876781979795
+lief:sections:name:.MPRESS1:entropy : 0.0024846954196224465
+lief:sections:characteristics:MEM_DISCARDABLE : 0.0024838438095361763
+lief:dos_header:reserved2(10) : 0.0024479812790798813
+lief:optional_header:sizeof_headers/size : 0.0024422457320586993
+lief:imports:user32.dll:timedatestamp : 0.0023702659565219717
+strings:probability of q : 0.0023630547278488388
+strings:probability of G : 0.0023538811956633223
+lief:sections:name:.MPRESS1:exist : 0.0023298697179236012
+lief:tls:num of callbacks : 0.002318446310909085
+strings:probability of TAB : 0.0022903268829242217
+strings:probability of l : 0.0022168251550369043
+strings:num of characters : 0.0022117357883345424
+lief:data_directories:BASE_RELOCATION_TABLE:RVA : 0.0021843737364352477
+lief:sections:name:.idata:entropy : 0.0021124353732032354
+lief:data_directories:LOAD_CONFIG_TABLE:RVA : 0.0021015984721625114
+strings:probability of } : 0.0020907804814109918
+strings:average_length : 0.002063013749423488
+lief:imports:user32.dll:import_lookup_table_rva : 0.0020430871329985183
+lief:sections:name:.MPRESS2:entropy : 0.0020375895344164345
+lief:data_directories:BASE_RELOCATION_TABLE:size : 0.0020094306149702162
+lief:rich_header:key : 0.001995100663798653
+strings:probability of + : 0.001980057258076952
+lief:data_directories:RESOURCE_TABLE:size : 0.0019309289846902932
+strings:entropy of characters : 0.0019066086452171381
+lief:imports:advapi32.dll:import_address_table_rva : 0.0018924563968601002
+strings:probability of 0 : 0.0018431227933409643
+strings:probability of n : 0.0018374341053780455
+lief:imports:msvcrt.dll:import_address_table_rva : 0.001825682523697962
+strings:probability of H : 0.0017961367101111036
+strings:probability of 6 : 0.0017769186837070978
+strings:probability of > : 0.001755423827089483
+strings:probability of # : 0.001707896209641894
+lief:data_directories:DEBUG:RVA : 0.0016872935214733206
+strings:probability of   : 0.0016451380777904327
+strings:probability of ] : 0.0016375584738537487
+strings:probability of $ : 0.0016286555323823937
+lief:sections:name:.MPRESS2:exist : 0.0016087330181757064
+strings:probability of i : 0.0015999162004597062
+strings:probability of < : 0.0015698839765788401
+strings:probability of & : 0.0015595083554855859
+lief:imports:advapi32.dll:import_lookup_table_rva : 0.0015321592111983125
+strings:probability of _ : 0.0015256580092926036
+strings:third quartile : 0.0015077410255051917
+strings:probability of d : 0.0014814177698204473
+lief:load_configuration:se_handler_count : 0.001475166388908665
+lief:sections:name:.CRT:entropy : 0.0014595089032143859
+strings:probability of o : 0.0014530094286852443
+lief:header:pointerto_symbol_table : 0.0014228925279457976
+strings:probability of p : 0.0014050753630221917
+lief:sections:name::pointerto_line_numbers : 0.0013886073508209353
+strings:probability of = : 0.0013831413038222792
+strings:probability of m : 0.0013787336050365016
+strings:probability of ' : 0.0013565605667687952
+strings:probability of C : 0.001350277407493169
+strings:probability of . : 0.001321486677644132
+strings:probability of K : 0.0013047523067966714
+strings:probability of ; : 0.001291615810165594
+strings:median : 0.0012895647782757203
+strings:probability of Q : 0.001288872059825344
+strings:probability of 7 : 0.0012802011027222898
+strings:probability of P : 0.0012564546996545877
+lief:imports:gdi32.dll:num of api : 0.0012501207453099817
+lief:header:characteristics:LOCAL_SYMS_STRIPPED : 0.0012418155879599707
+lief:data_directories:BOUND_IMPORT:RVA : 0.0012393772773458252
+strings:probability of r : 0.0012274209796844327
+strings:probability of ~ : 0.0012237880905701277
+lief:data_directories:EXCEPTION_TABLE:RVA : 0.0012172186589270433
+strings:probability of x : 0.0011990970586167194
+lief:resources_manager:version:fixed_file_info:file_flags_mask:INFOINFERRED : 0.00119862402359013
+strings:probability of ^ : 0.0011979765324923643
+lief:imports:kernel32.dll:import_address_table_rva : 0.0011955875944194031
+lief:load_configuration:se_handler_table : 0.0011946827581026343
+strings:probability of J : 0.0011927031789675366
+strings:probability of ( : 0.0011734914650882297
+strings:probability of Y : 0.001172448620007889
+lief:resources_manager:version:var_file_info:key : 0.0011699159885940292
+strings:probability of 8 : 0.001161621562673482
+lief:sections:types:Out of range : 0.0011582517823363202
+strings:num of strings : 0.0011531443422653578
+strings:probability of c : 0.0011353194001911648
+strings:probability of a : 0.0011296858870716096
+lief:resources_manager:version:fixed_file_info:product_version_MS : 0.0011284003410565804
+lief:imports:gdi32.dll:import_address_table_rva : 0.0011223554082678703
+lief:load_configuration:version:UNKNOWN : 0.0011140954173357053
+lief:resources_manager:version:fixed_file_info:file_flags_mask:PRERELEASE : 0.001107800088062459
+lief:relocations:HIGHLOW : 0.001095212024061204
+strings:probability of M : 0.0010909029188212395
+lief:optional_header:sizeof_stack_commit/size : 0.0010783744510752516
+lief:optional_header:sizeof_heap_reserve/size : 0.0010689286459849838
+lief:load_configuration:security_cookie : 0.0010676755227482697
+lief:header:numberof_symbols : 0.0010542064189647277
+strings:probability of | : 0.0010355626091137435
+strings:probability of 3 : 0.0010308906618732266
+strings:probability of j : 0.0010227973977196328
+lief:resources_manager:version:fixed_file_info:file_flags_mask:PATCHED : 0.0010130164834754101
+lief:resources_manager:version:var_file_info:type : 0.0010121668479931845
+lief:load_configuration:version:SEH : 0.0010079912651685494
+strings:probability of L : 0.001001099805802715
+lief:data_directories:GLOBAL_PTR:size : 0.0009963987156425117
+lief:load_configuration:characteristics : 0.0009945270772415938
+lief:sections:characteristics:ALIGN_64BYTES : 0.0009933548434430792
+lief:sections:name:.tls:entropy : 0.0009842283215498477
+lief:data_directories:DEBUG:size : 0.0009735159985712061
+lief:header:characteristics:RELOCS_STRIPPED : 0.0009726873441566595
+lief:optional_header:numberof_rva_and_size : 0.0009627479881198214
+strings:probability of X : 0.0009606282714969376
+lief:optional_header:minor_image_version : 0.0009596144599804158
+strings:probability of 2 : 0.0009529472760281138
+lief:rich_header:build_id:0 : 0.0009455117912089951
+lief:resources_manager:version:fixed_file_info:signature : 0.0009432261149906651
+strings:probability of h : 0.0009315744766056666
+lief:optional_header:sizeof_heap_commit/size : 0.0009302626530960301
+strings:probability of V : 0.0009283485466158835
+strings:probability of ` : 0.0009213769311418981
+lief:resources_manager:version:fixed_file_info:file_subtype:UNKNOWN : 0.0009107492151005538
+lief:resources_manager:version:string_file_info:key : 0.0008992999598473519
+lief:data_directories:GLOBAL_PTR:RVA : 0.0008985888947073591
+strings:probability of 5 : 0.0008842399747504808
+lief:tls:addressof_callbacks : 0.0008789423467683157
+strings:probability of D : 0.0008778825421327916
+strings:probability of s : 0.0008559489013952941
+strings:probability of 1 : 0.0008486812870140555
+lief:sections:name:.idata:exist : 0.0008460949846930067
+strings:probability of , : 0.0008436051342072378
+strings:probability of v : 0.0008315862067656475
+strings:probability of ? : 0.0008284214510760345
+strings:probability of - : 0.0008279682313649156
+strings:probability of N : 0.0008259551552799427
+lief:rich_header:(build_id, id):(0, 1) : 0.0008230990820749485
+lief:resources_manager:version:fixed_file_info:file_version_MS : 0.000823080112368119
+lief:sections:types:DEBUG : 0.0008179780269734114
+lief:sections:name:.reloc:exist : 0.0008129743971103027
+lief:sections:name:.bss:exist : 0.000809808812338761
+lief:data_directories:BOUND_IMPORT:size : 0.0008092989922837454
+strings:probability of z : 0.0008044889145783076
+strings:probability of O : 0.000802278388887842
+strings:probability of S : 0.00080171691849906
+strings:probability of I : 0.0007999983743489436
+lief:resources_manager:version:fixed_file_info:struct_version : 0.0007852969799022981
+lief:imports:advapi32.dll:timedatestamp : 0.0007812969590953551
+lief:optional_header:sizeof_stack_reserve/size : 0.0007616202182701182
+strings:probability of \ : 0.0007610081176826254
+strings:probability of [ : 0.0007555324273231884
+strings:probability of g : 0.0007549885551288806
+strings:probability of / : 0.0007491832756793081
+lief:sections:name:.reloc:entropy : 0.0007436082817814569
+strings:probability of k : 0.0007423172502917648
+lief:resources_manager:num of icons : 0.0007401457866121321
+lief:sections:name:/4:entropy : 0.0007246579838053424
+lief:imports:comdlg32.dll:num of api : 0.0007207876518836697
+file_size : 0.0007188039826672745
+strings:probability of : : 0.0007048194959244803
+lief:sections:name::pointerto_relocation : 0.000704414732566025
+strings:probability of % : 0.0006990779352207014
+lief:data_directories:ARCHITECTURE:RVA : 0.0006972921243436833
+lief:sections:characteristics:ALIGN_32BYTES : 0.000689332741023432
+lief:sections:characteristics:ALIGN_4096BYTES : 0.0006836354609075361
+strings:probability of y : 0.0006759747506485451
+strings:probability of u : 0.0006745560995587808
+lief:sections:characteristics:ALIGN_2BYTES : 0.0006711450329709751
+lief:symbols:complex_type:NULL : 0.0006620731145430546
+lief:sections:characteristics:ALIGN_4BYTES : 0.0006619278068037087
+strings:probability of R : 0.0006609427034092594
+strings:probability of Z : 0.0006524572018642024
+strings:probability of @ : 0.000642385880379906
+lief:imports:shell32.dll:import_address_table_rva : 0.0006421692240009638
+lief:imports:gdi32.dll:import_lookup_table_rva : 0.0006380137603274156
+lief:sections:characteristics:ALIGN_8192BYTES : 0.0006374644321633712
+lief:optional_header:major_image_version : 0.0006346083170155317
+lief:data_directories:IMPORT_TABLE:RVA : 0.0006220295825608847
+lief:sections:characteristics:ALIGN_1024BYTES : 0.0006208709715380668
+strings:probability of b : 0.0006090745791624106
+strings:probability of 4 : 0.0006083033946803596
+lief:optional_header:major_operating_system_version : 0.0006013320094076244
+strings:probability of 9 : 0.0005981744848752964
+lief:sections:characteristics:ALIGN_512BYTES : 0.0005943632440510748
+lief:relocations:ABSOLUTE : 0.0005911843635746089
+lief:imports:shell32.dll:num of api : 0.0005868958491550746
+strings:probability of ) : 0.0005851315288048036
+strings:probability of F : 0.0005806251629484424
+lief:sections:name:/4:exist : 0.0005622177143942905
+lief:optional_header:major_subsystem_version : 0.0005603648499345327
+strings:probability of A : 0.0005518815316301979
+lief:header:sizeof_optional_header : 0.0005499618692613225
+lief:resources_manager:version:fixed_file_info:file_flags_mask:SPECIALBUILD : 0.0005487633113960927
+lief:tls:addressof_index : 0.0005483172077339932
+strings:probability of W : 0.0005457137963390267
+lief:resources_manager:version:fixed_file_info:file_flags_mask:DEBUG : 0.0005421996217300881
+lief:sections:name:.tls:exist : 0.0005286062862797145
+lief:resources_manager:version:key : 0.0005104547132476825
+lief:data_directories:CLR_RUNTIME_HEADER:RVA : 0.0004974820858001073
+lief:resources_tree:numberof_id_entries : 0.0004972394304341717
+lief:resources_manager:version:fixed_file_info:file_flags_mask:PRIVATEBUILD : 0.0004952765052537958
+lief:dos_header:reserved(1) : 0.0004929778529474367
+lief:data_directories:DELAY_IMPORT_DESCRIPTOR:RVA : 0.0004900471487619846
+lief:header:characteristics:LINE_NUMS_STRIPPED : 0.0004895957304318294
+lief:symbols:storage_class:Out of range : 0.00048758678155290657
+lief:resources_manager:version:fixed_file_info:product_version_LS : 0.00047967028132198184
+lief:data_directories:RESOURCE_TABLE:RVA : 0.00047302382312077986
+lief:data_directories:CLR_RUNTIME_HEADER:size : 0.0004659099089833223
+lief:imports:shell32.dll:import_lookup_table_rva : 0.0004555576591127791
+strings:first_quartile : 0.00043019799733590863
+strings:probability of U : 0.0004285777105250262
+lief:resources_manager:version:fixed_file_info:file_version_LS : 0.0004233694301535567
+lief:sections:name::numberof_line_numbers : 0.0004230562087295097
+lief:sections:characteristics:ALIGN_256BYTES : 0.00041969625110471976
+lief:symbols:base_type:NULL : 0.00041405994984147125
+lief:debug:PDB_70 : 0.0004128992467912249
+lief:sections:characteristics:ALIGN_2048BYTES : 0.00041195815781444893
+lief:sections:characteristics:ALIGN_1BYTES : 0.00040429627375692355
+lief:optional_header:dll_characteristics:TERMINAL_SERVER_AWARE : 0.00040404549560812036
+strings:probability of B : 0.0004015769967768887
+lief:resources_tree:major_version : 0.00040028146423124654
+lief:virtual_size : 0.0003950897161235073
+strings:probability of T : 0.00038800959811619435
+lief:dos_header:reserved(2) : 0.00038710761957153896
+lief:imports:comdlg32.dll:import_address_table_rva : 0.0003859893690321368
+lief:imports:version.dll:import_lookup_table_rva : 0.0003851434204333428
+strings:probability of E : 0.00038500259898561936
+lief:sections:types:TLS_ : 0.0003747253293376827
+lief:imports:gdi32.dll:timedatestamp : 0.0003694462013800681
+lief:debug:CODEVIEW : 0.0003572983980400499
+lief:tls:characteristics:ALIGN_?? : 0.0003571603499599184
+lief:resources_manager:icons:sublang:ENGLISH_US : 0.0003530149605278031
+lief:resources_manager:version:fixed_file_info:file_type:APP : 0.0003461078220038569
+lief:sections:characteristics:ALIGN_16BYTES : 0.0003404648531446948
+lief:resources_manager:version:string_file_info:type : 0.0003333238634700793
+lief:resources_manager:version:fixed_file_info:file_os:WINDOWS32 : 0.0003328045417969551
+lief:data_directories:TLS_TABLE:RVA : 0.0003248628005848707
+lief:imports:comctl32.dll:num of api : 0.00031612483245208723
+lief:tls:data_directory:TLS_TABLE : 0.00030971589264996275
+strings:probability of f : 0.0003081450151373056
+lief:data_directories:TLS_TABLE:size : 0.0002908633193024186
+strings:probability of w : 0.00028703475343822184
+lief:sections:name:.CRT:exist : 0.00028282318894304104
+lief:tls:num of addressof_raw_data : 0.0002773979302555644
+lief:sections:types:RELOCATION : 0.0002671990799495843
+lief:optional_header:dll_characteristics:DYNAMIC_BASE : 0.00026715280379961096
+lief:imports:version.dll:import_address_table_rva : 0.00026118134371354323
+lief:imports:comctl32.dll:import_address_table_rva : 0.00025185018463402017
+lief:imports:ole32.dll:num of api : 0.00025124845861901004
+lief:imports:comdlg32.dll:timedatestamp : 0.00025065795496799454
+lief:sections:name::numberof_relocations : 0.00024037479464915885
+lief:imports:comdlg32.dll:import_lookup_table_rva : 0.00023535958348791343
+lief:imports:ole32.dll:timedatestamp : 0.0002272675260122705
+lief:imports:version.dll:num of api : 0.0002254779577585182
+lief:load_configuration:global_flags_clear : 0.00022129356583071723
+lief:load_configuration:lock_prefix_table : 0.0002178766549626979
+lief:imports:shell32.dll:timedatestamp : 0.00021523790587851536
+lief:imports:ole32.dll:import_lookup_table_rva : 0.000211659587267074
+lief:data_directories:DELAY_IMPORT_DESCRIPTOR:size : 0.00021004656322755805
+lief:load_configuration:minor_version : 0.00020971949058621944
+lief:data_directories:ARCHITECTURE:size : 0.00020917622811531875
+lief:rich_header:(build_id, id):(30729, 147) : 0.00020863788491087276
+lief:sections:types:IDATA : 0.0002031143231579704
+lief:load_configuration:maximum_allocation_size : 0.00020038566696096657
+lief:load_configuration:csd_version : 0.00019007520290264797
+lief:resources_manager:icons:lang:ENGLISH : 0.0001862098859971076
+lief:data_directories:EXCEPTION_TABLE:size : 0.00018347822850928871
+lief:debug:Out of range : 0.00017716883633657485
+lief:resources_manager:num of dialogs : 0.00017195637188613405
+lief:optional_header:file_alignment : 0.00016473129521105503
+lief:load_configuration:critical_section_default_timeout : 0.00016188751028076465
+lief:load_configuration:major_version : 0.0001617122349618669
+lief:imports:comctl32.dll:timedatestamp : 0.00015930559468127354
+lief:optional_header:dll_characteristics:NO_SEH : 0.00015105834882718128
+lief:imports:ole32.dll:import_address_table_rva : 0.000150651418211007
+lief:optional_header:minor_operating_system_version : 0.0001479230293104799
+lief:load_configuration:process_affinity_mask : 0.00014717675813493702
+lief:optional_header:minor_subsystem_version : 0.0001468132146594697
+lief:symbols:complex_type:Out of range : 0.00014386068055139233
+lief:imports:oleaut32.dll:num of api : 0.00014171353883026596
+lief:resources_tree:minor_version : 0.00014068524598231295
+lief:resources_tree:time_date_stamp : 0.000132045923430161
+lief:imports:mscoree.dll:import_address_table_rva : 0.00013099131150127625
+lief:load_configuration:editlist : 0.00012545437550893031
+lief:load_configuration:decommit_total_free_threshold : 0.000117416421252742
+lief:optional_header:section_alignment : 0.00011713376821829005
+lief:imports:comctl32.dll:import_lookup_table_rva : 0.00011398619150580753
+lief:sections:name:UPX2:entropy : 0.00011361426377595328
+lief:rich_header:(build_id, id):(30729, 148) : 0.00010762891107536083
+lief:imports:mscoree.dll:num of api : 0.00010528273623168434
+lief:load_configuration:global_flags_set : 0.00010394880178272242
+lief:sections:name:UPX2:exist : 0.00010260021164412413
+lief:load_configuration:virtual_memory_threshold : 0.00010167803647058024
+lief:imports:version.dll:timedatestamp : 0.0001013012076541738
+lief:imports:oleaut32.dll:import_address_table_rva : 0.00010006141287376652
+lief:optional_header:dll_characteristics:NX_COMPAT : 0.00010000045193509364
+lief:rich_header:(build_id, id):(30729, 132) : 9.538865858170202e-05
+lief:imports:mscoree.dll:import_lookup_table_rva : 9.477007615243984e-05
+lief:sections:characteristics:ALIGN_8BYTES : 9.269126228114682e-05
+lief:load_configuration:reserved1 : 8.910262740151465e-05
+lief:rich_header:(build_id, id):(30729, 145) : 8.471181217641633e-05
+lief:resources_tree:numberof_name_entries : 7.982418024626141e-05
+lief:optional_header:subsystem:WINDOWS_CUI : 7.757220630980559e-05
+lief:imports:msvcrt.dll:forwarder_chain : 7.687484700935661e-05
+lief:optional_header:dll_characteristics:NO_BIND : 7.072087423357831e-05
+lief:resources_manager:icons:sublang:DEFAULT : 6.781333319267835e-05
+lief:imports:kernel32.dll:timedatestamp : 6.708502986820464e-05
+lief:sections:types:RESOURCE : 6.62353067787233e-05
+lief:resources_tree:characteristics : 6.352548427409425e-05
+lief:imports:msvcr90.dll:num of api : 6.331078794363445e-05
+lief:rich_header:build_id:21005 : 6.210369739669483e-05
+lief:imports:ws2_32.dll:num of api : 5.8096748450226235e-05
+lief:export:timestamp : 5.6077791668647465e-05
+lief:imports:ntdll.dll:import_lookup_table_rva : 5.5684768817485245e-05
+lief:imports:shlwapi.dll:import_address_table_rva : 5.289337436794997e-05
+lief:imports:msvcr90.dll:import_lookup_table_rva : 5.280927735080301e-05
+lief:rich_header:(build_id, id):(21022, 131) : 5.2190894460231034e-05
+lief:load_configuration:decommit_free_block_threshold : 5.084447103371033e-05
+lief:imports:oleaut32.dll:import_lookup_table_rva : 5.081156445442913e-05
+lief:imports:advapi32.dll:forwarder_chain : 4.999165306586906e-05
+lief:load_configuration:timedatestamp : 4.985266198189759e-05
+lief:imports:msvcr90.dll:import_address_table_rva : 4.911068562542752e-05
+lief:imports:user32.dll:forwarder_chain : 4.776459755577655e-05
+lief:imports:shlwapi.dll:num of api : 4.4749370851548175e-05
+lief:rich_header:build_id:30729 : 4.447025471765001e-05
+lief:imports:ntdll.dll:import_address_table_rva : 4.3785760795511125e-05
+lief:imports:ntdll.dll:num of api : 4.320146412835425e-05
+lief:rich_header:(build_id, id):(7299, 14) : 4.2045058963953066e-05
+lief:imports:ws2_32.dll:import_address_table_rva : 4.191576748473508e-05
+lief:rich_header:build_id:4035 : 3.8950694659757645e-05
+lief:rich_header:(build_id, id):(30729, 131) : 3.882686045839801e-05
+lief:rich_header:build_id:9210 : 3.8515170289160654e-05
+lief:resources_manager:icons:lang:NEUTRAL : 3.847371886671746e-05
+lief:load_configuration:process_heap_flags:GENERATE_EXCEPTIONS : 3.72555981371203e-05
+lief:sections:name:.gfids:exist : 3.630091585364927e-05
+lief:rich_header:(build_id, id):(31101, 222) : 3.501738312247664e-05
+lief:rich_header:(build_id, id):(4035, 93) : 3.455806224707172e-05
+lief:imports:ws2_32.dll:timedatestamp : 3.4377649267592834e-05
+lief:imports:ws2_32.dll:import_lookup_table_rva : 3.36994702615675e-05
+lief:optional_header:imagebase : 3.30496604489767e-05
+lief:rich_header:(build_id, id):(30729, 149) : 3.288916417431506e-05
+lief:sections:name:.xdata:entropy : 3.28644876574916e-05
+lief:optional_header:subsystem:WINDOWS_GUI : 3.227840753062193e-05
+lief:rich_header:(build_id, id):(21005, 223) : 3.123073738822736e-05
+lief:imports:ntdll.dll:forwarder_chain : 3.1197796573762314e-05
+lief:rich_header:(build_id, id):(21005, 224) : 3.0268282221648953e-05
+lief:rich_header:(build_id, id):(0, 151) : 2.938184441524889e-05
+lief:resources_manager:version:fixed_file_info:file_os:NT_WINDOWS32 : 2.934128756982589e-05
+lief:resources_manager:icons:sublang:ENGLISH_CAN : 2.7826000389148628e-05
+lief:imports:ole32.dll:forwarder_chain : 2.7673938850061683e-05
+lief:rich_header:(build_id, id):(50727, 123) : 2.7066317218012923e-05
+lief:imports:oleaut32.dll:timedatestamp : 2.576513842600382e-05
+lief:sections:name:DATA:entropy : 2.496954611476741e-05
+lief:imports:shlwapi.dll:import_lookup_table_rva : 2.4561315153732315e-05
+lief:sections:name:CODE:entropy : 2.43418712661483e-05
+lief:rich_header:(build_id, id):(20413, 150) : 2.429945361010713e-05
+lief:rich_header:build_id:50727 : 2.4184881556806548e-05
+lief:data_directories:EXPORT_TABLE:size : 2.3899414595846352e-05
+lief:rich_header:build_id:7299 : 2.3532942517114178e-05
+lief:rich_header:(build_id, id):(50727, 120) : 2.3504729002316135e-05
+lief:imports:netapi32.dll:num of api : 2.347833243497003e-05
+lief:resources_manager:icons:lang:HEBREW : 2.3349903111973076e-05
+lief:rich_header:(build_id, id):(50727, 109) : 2.2721399558341255e-05
+lief:export:ordinal_base : 2.1983993393593197e-05
+lief:rich_header:build_id:7291 : 2.165333413895137e-05
+lief:sections:name:.gfids:entropy : 2.1153977946304878e-05
+lief:rich_header:(build_id, id):(50727, 124) : 2.0885526710173473e-05
+lief:rich_header:(build_id, id):(21022, 149) : 2.0840406056462963e-05
+lief:rich_header:(build_id, id):(8168, 10) : 2.081378868919143e-05
+lief:rich_header:build_id:21022 : 2.030686410178322e-05
+lief:rich_header:(build_id, id):(2179, 93) : 1.9715618464252508e-05
+lief:imports:msvcr80.dll:import_address_table_rva : 1.964598650765271e-05
+lief:rich_header:build_id:9178 : 1.9128726916300642e-05
+lief:sections:name:CODE:exist : 1.888706433592474e-05
+lief:sections:characteristics:MEM_SHARED : 1.8774578443140033e-05
+lief:resources_manager:icons:sublang:CHINESE_SIMPLIFIED : 1.8085659256841985e-05
+lief:resources_manager:icons:lang:CHINESE : 1.794184067208926e-05
+lief:rich_header:(build_id, id):(7291, 12) : 1.780671847565671e-05
+lief:rich_header:(build_id, id):(9782, 11) : 1.75684473986198e-05
+lief:imports:msvcr100.dll:import_lookup_table_rva : 1.735821321584195e-05
+lief:rich_header:(build_id, id):(40219, 158) : 1.718954073716856e-05
+lief:imports:msvcr90.dll:timedatestamp : 1.6465060973446892e-05
+lief:rich_header:build_id:9782 : 1.632962662110612e-05
+lief:data_directories:EXPORT_TABLE:RVA : 1.6179481982896017e-05
+lief:rich_header:(build_id, id):(1735, 6) : 1.5920358569652926e-05
+lief:rich_header:(build_id, id):(21022, 132) : 1.589529494008707e-05
+lief:imports:imm32.dll:import_address_table_rva : 1.5654743608981292e-05
+lief:load_configuration:process_heap_flags:NO_SERIALIZE : 1.4977860316930386e-05
+lief:rich_header:build_id:1735 : 1.444872369503068e-05
+lief:rich_header:(build_id, id):(8047, 4) : 1.4298164721321496e-05
+lief:rich_header:(build_id, id):(8047, 11) : 1.4268482399535283e-05
+lief:resources_manager:version:fixed_file_info:file_flags:PRERELEASE : 1.4220736275986602e-05
+lief:rich_header:build_id:20413 : 1.3686880201446913e-05
+lief:imports:mpr.dll:import_address_table_rva : 1.354222960596613e-05
+lief:imports:ntdll.dll:timedatestamp : 1.343890776744577e-05
+lief:rich_header:(build_id, id):(8047, 10) : 1.332142314495598e-05
+lief:imports:uxtheme.dll:import_address_table_rva : 1.3289978572923729e-05
+lief:rich_header:(build_id, id):(0, 0) : 1.325332453874054e-05
+lief:rich_header:(build_id, id):(31101, 225) : 1.32090597718848e-05
+lief:rich_header:(build_id, id):(50727, 125) : 1.3190474102950803e-05
+lief:rich_header:(build_id, id):(21005, 225) : 1.2834414534996865e-05
+lief:rich_header:build_id:65501 : 1.2553839312489599e-05
+lief:imports:msvcr80.dll:timedatestamp : 1.2299019741906235e-05
+lief:rich_header:build_id:26706 : 1.2280313871940404e-05
+lief:sections:name:.00cfg:entropy : 1.1884825473368356e-05
+lief:rich_header:build_id:40219 : 1.1614126230903879e-05
+lief:imports:msvcr100.dll:num of api : 1.1449633362630065e-05
+lief:rich_header:(build_id, id):(9210, 25) : 1.1361952564890434e-05
+lief:rich_header:(build_id, id):(21005, 219) : 1.1244654011697127e-05
+lief:rich_header:build_id:2067 : 1.1126432090204553e-05
+lief:rich_header:build_id:8168 : 1.1053889976436918e-05
+lief:header:characteristics:BYTES_REVERSED_HI : 1.082650461932751e-05
+lief:load_configuration:guard_flags:CF_FUNCTION_TABLE_SIZE : 1.0774563447102915e-05
+lief:imports:msvcr80.dll:num of api : 1.0701707463194555e-05
+lief:export:num of apis : 1.0521693452165932e-05
+lief:imports:mpr.dll:num of api : 1.0449729041373773e-05
+lief:rich_header:(build_id, id):(26706, 259) : 1.0281730807261188e-05
+lief:imports:imm32.dll:num of api : 1.0207311269358032e-05
+lief:rich_header:(build_id, id):(4035, 95) : 9.734325352944024e-06
+lief:rich_header:(build_id, id):(40629, 222) : 9.694217177889207e-06
+lief:imports:winmm.dll:num of api : 9.659231655009006e-06
+lief:rich_header:(build_id, id):(9782, 10) : 9.310666010305962e-06
+lief:rich_header:(build_id, id):(21022, 147) : 9.284872001630279e-06
+lief:rich_header:(build_id, id):(3077, 96) : 9.27307702716536e-06
+lief:imports:netapi32.dll:import_address_table_rva : 9.175288531108517e-06
+lief:imports:msvcr100.dll:import_address_table_rva : 9.16123745581855e-06
+lief:imports:gdi32.dll:forwarder_chain : 9.140538738407517e-06
+lief:rich_header:build_id:3077 : 8.900230545136466e-06
+lief:rich_header:(build_id, id):(40219, 157) : 8.876269346470962e-06
+lief:imports:wininet.dll:import_address_table_rva : 8.594635017956487e-06
+lief:rich_header:build_id:24210 : 8.515460033608023e-06
+lief:rich_header:build_id:2179 : 8.468112016717031e-06
+lief:imports:winmm.dll:import_lookup_table_rva : 8.449920005252175e-06
+lief:tls:characteristics:ALIGN_4BYTES : 8.249779961009232e-06
+lief:rich_header:(build_id, id):(21022, 145) : 8.163837627095726e-06
+lief:rich_header:build_id:8966 : 8.163758840560118e-06
+lief:imports:winspool.drv:num of api : 8.158005658342778e-06
+lief:rich_header:(build_id, id):(50727, 114) : 8.037612731829158e-06
+lief:sections:name:.xdata:exist : 7.984665308624616e-06
+lief:rich_header:(build_id, id):(40116, 243) : 7.793085195095334e-06
+lief:imports:rpcrt4.dll:import_address_table_rva : 7.683129612658026e-06
+lief:imports:iphlpapi.dll:num of api : 7.667358725396457e-06
+lief:imports:shlwapi.dll:timedatestamp : 7.505197857451356e-06
+lief:imports:uxtheme.dll:num of api : 7.4388834204856426e-06
+lief:rich_header:(build_id, id):(65501, 203) : 7.425034902666581e-06
+lief:rich_header:build_id:41118 : 7.397262986263744e-06
+lief:imports:crypt32.dll:import_address_table_rva : 7.171222479204177e-06
+lief:imports:shlwapi.dll:forwarder_chain : 7.147347555513193e-06
+lief:rich_header:(build_id, id):(26706, 261) : 7.040002143400952e-06
+lief:imports:oleacc.dll:num of api : 6.931453735192734e-06
+lief:resources_manager:icons:sublang:ENGLISH_PHILIPPINES : 6.814811431220816e-06
+lief:rich_header:build_id:8447 : 6.649994593503852e-06
+lief:resources_manager:version:fixed_file_info:file_flags:PATCHED : 6.599560534527061e-06
+lief:debug:LCTG : 6.523058425784196e-06
+lief:imports:rpcrt4.dll:num of api : 6.386827249485555e-06
+lief:resources_manager:icons:lang:CROATIAN : 6.376292933847555e-06
+lief:rich_header:build_id:8047 : 6.324203711069373e-06
+lief:resources_manager:version:fixed_file_info:file_type:DLL : 6.083038497314717e-06
+lief:resources_manager:version:fixed_file_info:file_flags:PRIVATEBUILD : 6.0549836741351605e-06
+lief:imports:iphlpapi.dll:timedatestamp : 6.0445680084223345e-06
+lief:sections:name:.didata:entropy : 5.922381177277726e-06
+lief:imports:winspool.drv:import_address_table_rva : 5.912979051007129e-06
+lief:rich_header:(build_id, id):(24123, 261) : 5.888432033292679e-06
+lief:load_configuration:guard_flags:CF_INSTRUMENTED : 5.853306503808572e-06
+lief:rich_header:(build_id, id):(4035, 94) : 5.802308182423402e-06
+lief:rich_header:(build_id, id):(40219, 154) : 5.7683511724373214e-06
+lief:rich_header:(build_id, id):(50327, 126) : 5.50785410450999e-06
+lief:symbols:base_type:CHAR : 5.390728452634455e-06
+lief:sections:name:.00cfg:exist : 5.385339861181068e-06
+lief:rich_header:(build_id, id):(21022, 148) : 5.3507155058684435e-06
+lief:imports:psapi.dll:import_lookup_table_rva : 5.336516572563411e-06
+lief:imports:mpr.dll:import_lookup_table_rva : 5.2776279362839185e-06
+lief:imports:shell32.dll:forwarder_chain : 5.172966291791919e-06
+lief:imports:libstdc++-6.dll:num of api : 5.1510878151239566e-06
+lief:imports:wininet.dll:import_lookup_table_rva : 5.111407667617737e-06
+lief:imports:wintrust.dll:num of api : 5.079519093233057e-06
+lief:imports:api-ms-win-crt-stdio-l1-1-0.dll:import_address_table_rva : 5.045802750270092e-06
+lief:rich_header:build_id:40629 : 5.020744794232037e-06
+lief:rich_header:(build_id, id):(40219, 171) : 4.953951590614601e-06
+lief:imports:libstdc++-6.dll:import_address_table_rva : 4.921212458853331e-06
+lief:rich_header:(build_id, id):(3077, 95) : 4.88900114913078e-06
+lief:rich_header:(build_id, id):(9178, 29) : 4.8818689118101245e-06
+lief:resources_manager:icons:sublang:CROATIAN_CROATIA : 4.801838473422729e-06
+lief:rich_header:build_id:50327 : 4.789554620237332e-06
+lief:sections:name:DATA:exist : 4.77362538151943e-06
+lief:imports:msvcr120.dll:import_address_table_rva : 4.702661348088405e-06
+lief:rich_header:build_id:40116 : 4.68881528597799e-06
+lief:rich_header:(build_id, id):(8447, 4) : 4.668736437843476e-06
+lief:imports:gdiplus.dll:import_lookup_table_rva : 4.664910037130198e-06
+lief:imports:msimg32.dll:import_address_table_rva : 4.64931333135042e-06
+lief:imports:psapi.dll:import_address_table_rva : 4.561686104360035e-06
+lief:imports:winmm.dll:timedatestamp : 4.514609025692848e-06
+lief:rich_header:(build_id, id):(40116, 241) : 4.415535551246068e-06
+lief:sections:name:.didata:exist : 4.3771952249515355e-06
+lief:rich_header:(build_id, id):(26706, 260) : 4.2966595787392315e-06
+lief:imports:msvcr80.dll:import_lookup_table_rva : 4.235118953328247e-06
+lief:imports:urlmon.dll:num of api : 4.234914372693015e-06
+lief:imports:libstdc++-6.dll:timedatestamp : 4.233420352416268e-06
+lief:imports:wininet.dll:num of api : 4.218223851399625e-06
+lief:imports:mfc42.dll:import_address_table_rva : 4.162593734310694e-06
+lief:rich_header:(build_id, id):(24210, 255) : 4.1052134871181615e-06
+lief:header:characteristics:BYTES_REVERSED_LO : 4.0700901484095155e-06
+lief:imports:urlmon.dll:import_lookup_table_rva : 3.7579124393031852e-06
+lief:load_configuration:guard_flags:PROTECT_DELAYLOAD_IAT : 3.7540083683181077e-06
+lief:imports:setupapi.dll:num of api : 3.7065527176118196e-06
+lief:sections:name:.edata:exist : 3.6956665529560603e-06
+lief:load_configuration:version:WIN10_0_16237 : 3.6931626842611638e-06
+lief:symbols:base_type:FLOAT : 3.6809060832068907e-06
+lief:rich_header:build_id:20806 : 3.670109364029493e-06
+lief:rich_header:build_id:24123 : 3.6577082658080097e-06
+lief:rich_header:(build_id, id):(9111, 69) : 3.655691764384974e-06
+lief:resources_manager:version:fixed_file_info:file_type:DRV : 3.6253899173689856e-06
+lief:rich_header:(build_id, id):(50727, 110) : 3.6221057523336125e-06
+lief:rich_header:(build_id, id):(40629, 224) : 3.603063899869986e-06
+lief:imports:crtdll.dll:num of api : 3.5789472273529472e-06
+lief:imports:vcruntime140.dll:import_lookup_table_rva : 3.543487639186621e-06
+lief:rich_header:build_id:3052 : 3.533916598125375e-06
+lief:imports:api-ms-win-crt-runtime-l1-1-0.dll:num of api : 3.514069827503487e-06
+lief:resources_manager:icons:sublang:ENGLISH_JAMAICA : 3.463274213091638e-06
+lief:imports:crypt32.dll:num of api : 3.453846301866316e-06
+lief:load_configuration:guard_cf_function_count : 3.4492296364091473e-06
+lief:symbols:complex_type:ARRAY : 3.445383752671983e-06
+lief:imports:api-ms-win-crt-math-l1-1-0.dll:timedatestamp : 3.42144941458061e-06
+lief:imports:mpr.dll:timedatestamp : 3.421365458405488e-06
+lief:rich_header:(build_id, id):(30729, 138) : 3.3794371018711323e-06
+lief:imports:comdlg32.dll:forwarder_chain : 3.295639568226605e-06
+lief:header:characteristics:32BIT_MACHINE : 3.291911118057083e-06
+lief:imports:msvcr120.dll:import_lookup_table_rva : 3.2898065221651113e-06
+lief:imports:api-ms-win-crt-math-l1-1-0.dll:num of api : 3.268770916315042e-06
+lief:imports:msimg32.dll:num of api : 3.2270210347889786e-06
+lief:imports:winmm.dll:import_address_table_rva : 3.2201298832603555e-06
+lief:resources_manager:icons:sublang:ENGLISH_UK : 3.1985849156683863e-06
+lief:imports:gdiplus.dll:import_address_table_rva : 3.1848456558335513e-06
+lief:load_configuration:guard_cf_check_function_pointer : 3.1530590409615573e-06
+lief:resources_manager:icons:lang:GERMAN : 3.0274293312380317e-06
+lief:imports:gdiplus.dll:num of api : 2.927013396185215e-06
+lief:rich_header:(build_id, id):(40219, 175) : 2.927012571960553e-06
+lief:resources_manager:version:fixed_file_info:file_type:UNKNOWN : 2.887098567040768e-06
+lief:sections:name:BSS:exist : 2.750830109232599e-06
+lief:resources_manager:icons:sublang:GERMAN : 2.7211753950864826e-06
+lief:load_configuration:process_heap_flags:CREATE_ENABLE_EXECUTE : 2.6882725976145573e-06
+lief:imports:api-ms-win-crt-stdio-l1-1-0.dll:num of api : 2.6221183944676565e-06
+lief:resources_manager:version:fixed_file_info:file_type:FONT : 2.309768124439981e-06
+lief:rich_header:(build_id, id):(8034, 19) : 2.3097255140497353e-06
+lief:rich_header:(build_id, id):(40116, 242) : 2.2743993077786116e-06
+lief:header:characteristics:LARGE_ADDRESS_AWARE : 2.267509897813808e-06
+lief:rich_header:(build_id, id):(3077, 90) : 2.256386493212512e-06
+lief:symbols:base_type:VOID : 2.1178158972667623e-06
+lief:imports:oledlg.dll:import_lookup_table_rva : 1.8819899246430077e-06
+lief:imports:urlmon.dll:timedatestamp : 1.8754535272939312e-06
+lief:sections:name:.qtmetad:exist : 1.8691460510719757e-06
+lief:symbols:storage_class:MEMBER_OF_STRUCT : 1.8658540418702677e-06
+lief:debug:POGO : 1.8593564092105975e-06
+lief:rich_header:(build_id, id):(24215, 261) : 1.8580825478438497e-06
+lief:sections:name:.qtmetad:entropy : 1.8560178578795139e-06
+lief:debug:ILTCG : 1.855634096058699e-06
+lief:rich_header:(build_id, id):(4035, 90) : 1.8427980613931336e-06
+lief:rich_header:(build_id, id):(9044, 48) : 1.8427813102849505e-06
+lief:rich_header:(build_id, id):(41118, 199) : 1.841221949230724e-06
+lief:resources_manager:icons:lang:FRENCH : 1.8408433716420816e-06
+lief:imports:gdiplus.dll:forwarder_chain : 1.8382668757997777e-06
+lief:imports:api-ms-win-crt-locale-l1-1-0.dll:num of api : 1.8346906363250272e-06
+lief:imports:api-ms-win-crt-runtime-l1-1-0.dll:import_address_table_rva : 1.8243047147653618e-06
+lief:symbols:complex_type:COMPLEX_TYPE_SHIFT : 1.8140842060345532e-06
+lief:imports:api-ms-win-crt-convert-l1-1-0.dll:num of api : 1.7937167583339295e-06
+lief:rich_header:(build_id, id):(24123, 259) : 1.7891391624931107e-06
+lief:rich_header:(build_id, id):(24215, 265) : 1.7856588109530702e-06
+lief:imports:ws2_32.dll:forwarder_chain : 1.7711844261947798e-06
+lief:imports:psapi.dll:timedatestamp : 1.7472231479690006e-06
+lief:rich_header:(build_id, id):(9178, 28) : 1.7442610916319327e-06
+lief:imports:wsock32.dll:import_address_table_rva : 1.7270025190841723e-06
+lief:load_configuration:guard_cf_dispatch_function_pointer : 1.7086941775277674e-06
+lief:imports:netapi32.dll:timedatestamp : 1.7063880983823923e-06
+lief:imports:api-ms-win-crt-math-l1-1-0.dll:import_address_table_rva : 1.693232415798164e-06
+lief:imports:oledlg.dll:import_address_table_rva : 1.6732349959364054e-06
+lief:rich_header:(build_id, id):(8168, 11) : 1.6524833134054863e-06
+lief:imports:winspool.drv:import_lookup_table_rva : 1.6464571308453818e-06
+lief:imports:oleacc.dll:import_lookup_table_rva : 1.6442349774333467e-06
+lief:symbols:base_type:UNION : 1.6140203503516418e-06
+lief:symbols:storage_class:FILE : 1.6137873387840312e-06
+lief:rich_header:build_id:24215 : 1.5062121450017336e-06
+lief:imports:wintrust.dll:import_address_table_rva : 1.505777150958519e-06
+lief:rich_header:(build_id, id):(30729, 146) : 1.4448136223135485e-06
+lief:resources_manager:icons:sublang:FRENCH : 1.4117704468602548e-06
+lief:imports:vcruntime140.dll:timedatestamp : 1.4112386017321576e-06
+lief:sections:name:.edata:entropy : 1.255203360259765e-06
+lief:debug:VC_FEATURE : 1.255005198863936e-06
+lief:rich_header:(build_id, id):(3052, 94) : 1.210526298100933e-06
+lief:imports:imm32.dll:import_lookup_table_rva : 1.1265176027611582e-06
+lief:imports:dbghelp.dll:import_address_table_rva : 9.412732698089023e-07
+lief:imports:api-ms-win-crt-heap-l1-1-0.dll:timedatestamp : 9.411122408377261e-07
+lief:rich_header:(build_id, id):(65501, 206) : 9.410476510573756e-07
+lief:imports:rpcrt4.dll:import_lookup_table_rva : 9.409353661651691e-07
+lief:imports:crtdll.dll:timedatestamp : 9.40926379000835e-07
+lief:rich_header:(build_id, id):(9782, 4) : 5.647671166183823e-07
+lief:imports:libstdc++-6.dll:import_lookup_table_rva : 4.7058662137668503e-07
+lief:rich_header:(build_id, id):(40629, 234) : 1.3443146696760273e-07
+lief:imports:psapi.dll:num of api : 9.624855156219115e-08
+lief:resources_manager:version:fixed_file_info:file_os:DOS_WINDOWS16 : 1.4259729065741587e-08
+lief:rich_header:(build_id, id):(20806, 225) : 6.921823964565359e-09
+lief:imports:iphlpapi.dll:import_address_table_rva : 4.371360323166995e-09
+lief:dos_header:magic : 0.0
+lief:dos_header:initial_relative_ss : 0.0
+lief:rich_header:build_id:8034 : 0.0
+lief:rich_header:build_id:8169 : 0.0
+lief:rich_header:build_id:8041 : 0.0
+lief:rich_header:build_id:26213 : 0.0
+lief:rich_header:build_id:1720 : 0.0
+lief:rich_header:build_id:25711 : 0.0
+lief:rich_header:build_id:30319 : 0.0
+lief:rich_header:build_id:8783 : 0.0
+lief:rich_header:build_id:50929 : 0.0
+lief:rich_header:build_id:25203 : 0.0
+lief:rich_header:build_id:31101 : 0.0
+lief:rich_header:build_id:20115 : 0.0
+lief:rich_header:build_id:9044 : 0.0
+lief:rich_header:build_id:23013 : 0.0
+lief:rich_header:build_id:30716 : 0.0
+lief:rich_header:build_id:61030 : 0.0
+lief:rich_header:build_id:23917 : 0.0
+lief:rich_header:build_id:9111 : 0.0
+lief:rich_header:build_id:25930 : 0.0
+lief:rich_header:build_id:27027 : 0.0
+lief:rich_header:build_id:26131 : 0.0
+lief:rich_header:build_id:26715 : 0.0
+lief:rich_header:(build_id, id):(24123, 260) : 0.0
+lief:rich_header:(build_id, id):(24215, 258) : 0.0
+lief:rich_header:(build_id, id):(24123, 257) : 0.0
+lief:rich_header:(build_id, id):(8169, 13) : 0.0
+lief:rich_header:(build_id, id):(24215, 256) : 0.0
+lief:rich_header:(build_id, id):(8041, 9) : 0.0
+lief:rich_header:(build_id, id):(26706, 257) : 0.0
+lief:rich_header:(build_id, id):(26213, 257) : 0.0
+lief:rich_header:(build_id, id):(1720, 6) : 0.0
+lief:rich_header:(build_id, id):(24215, 257) : 0.0
+lief:rich_header:(build_id, id):(40219, 170) : 0.0
+lief:rich_header:(build_id, id):(21005, 221) : 0.0
+lief:rich_header:(build_id, id):(40629, 220) : 0.0
+lief:rich_header:(build_id, id):(9782, 13) : 0.0
+lief:rich_header:(build_id, id):(40629, 221) : 0.0
+lief:rich_header:(build_id, id):(8168, 22) : 0.0
+lief:rich_header:(build_id, id):(8168, 4) : 0.0
+lief:rich_header:(build_id, id):(4035, 15) : 0.0
+lief:rich_header:(build_id, id):(25711, 257) : 0.0
+lief:rich_header:(build_id, id):(4035, 96) : 0.0
+lief:rich_header:(build_id, id):(8783, 9) : 0.0
+lief:rich_header:(build_id, id):(50929, 207) : 0.0
+lief:rich_header:(build_id, id):(50929, 206) : 0.0
+lief:rich_header:(build_id, id):(20806, 224) : 0.0
+lief:rich_header:(build_id, id):(30319, 171) : 0.0
+lief:rich_header:(build_id, id):(20115, 152) : 0.0
+lief:rich_header:(build_id, id):(20806, 223) : 0.0
+lief:rich_header:(build_id, id):(40219, 156) : 0.0
+lief:rich_header:(build_id, id):(50929, 205) : 0.0
+lief:rich_header:(build_id, id):(40629, 225) : 0.0
+lief:rich_header:(build_id, id):(25203, 257) : 0.0
+lief:rich_header:(build_id, id):(20806, 221) : 0.0
+lief:rich_header:(build_id, id):(23013, 261) : 0.0
+lief:rich_header:(build_id, id):(30716, 185) : 0.0
+lief:rich_header:(build_id, id):(25711, 260) : 0.0
+lief:rich_header:(build_id, id):(23917, 257) : 0.0
+lief:rich_header:(build_id, id):(61030, 204) : 0.0
+lief:rich_header:(build_id, id):(30319, 170) : 0.0
+lief:rich_header:(build_id, id):(26213, 260) : 0.0
+lief:rich_header:(build_id, id):(40219, 155) : 0.0
+lief:rich_header:(build_id, id):(30319, 157) : 0.0
+lief:rich_header:(build_id, id):(24215, 260) : 0.0
+lief:rich_header:(build_id, id):(30319, 158) : 0.0
+lief:rich_header:(build_id, id):(50727, 122) : 0.0
+lief:rich_header:(build_id, id):(40629, 223) : 0.0
+lief:rich_header:(build_id, id):(25930, 261) : 0.0
+lief:rich_header:(build_id, id):(65501, 208) : 0.0
+lief:rich_header:(build_id, id):(25930, 260) : 0.0
+lief:rich_header:(build_id, id):(25930, 259) : 0.0
+lief:rich_header:(build_id, id):(3077, 15) : 0.0
+lief:rich_header:(build_id, id):(40116, 239) : 0.0
+lief:rich_header:(build_id, id):(31101, 220) : 0.0
+lief:rich_header:(build_id, id):(9210, 61) : 0.0
+lief:rich_header:(build_id, id):(31101, 221) : 0.0
+lief:rich_header:(build_id, id):(50929, 203) : 0.0
+lief:rich_header:(build_id, id):(61030, 201) : 0.0
+lief:rich_header:(build_id, id):(2067, 93) : 0.0
+lief:rich_header:(build_id, id):(26131, 261) : 0.0
+lief:rich_header:(build_id, id):(25930, 257) : 0.0
+lief:rich_header:(build_id, id):(26131, 260) : 0.0
+lief:rich_header:(build_id, id):(26131, 259) : 0.0
+lief:rich_header:(build_id, id):(61030, 202) : 0.0
+lief:rich_header:(build_id, id):(26213, 261) : 0.0
+lief:rich_header:(build_id, id):(26213, 259) : 0.0
+lief:rich_header:(build_id, id):(27027, 258) : 0.0
+lief:rich_header:(build_id, id):(27027, 255) : 0.0
+lief:rich_header:(build_id, id):(26715, 257) : 0.0
+lief:header:signature(1) : 0.0
+lief:header:signature(2) : 0.0
+lief:header:signature(3) : 0.0
+lief:header:signature(4) : 0.0
+lief:header:machine:INVALID : 0.0
+lief:header:machine:UNKNOWN : 0.0
+lief:header:machine:AM33 : 0.0
+lief:header:machine:AMD64 : 0.0
+lief:header:machine:ARM : 0.0
+lief:header:machine:ARMNT : 0.0
+lief:header:machine:ARM64 : 0.0
+lief:header:machine:EBC : 0.0
+lief:header:machine:I386 : 0.0
+lief:header:machine:IA64 : 0.0
+lief:header:machine:M32R : 0.0
+lief:header:machine:MIPS16 : 0.0
+lief:header:machine:MIPSFPU : 0.0
+lief:header:machine:MIPSFPU16 : 0.0
+lief:header:machine:POWERPC : 0.0
+lief:header:machine:POWERPCFP : 0.0
+lief:header:machine:R4000 : 0.0
+lief:header:machine:RISCV32 : 0.0
+lief:header:machine:RISCV64 : 0.0
+lief:header:machine:RISCV128 : 0.0
+lief:header:machine:SH3 : 0.0
+lief:header:machine:SH3DSP : 0.0
+lief:header:machine:SH4 : 0.0
+lief:header:machine:SH5 : 0.0
+lief:header:machine:THUMB : 0.0
+lief:header:machine:WCEMIPSV2 : 0.0
+lief:header:machine:Out of range : 0.0
+lief:header:characteristics:EXECUTABLE_IMAGE : 0.0
+lief:header:characteristics:AGGRESSIVE_WS_TRIM : 0.0
+lief:header:characteristics:RESERVED : 0.0
+lief:header:characteristics:REMOVABLE_RUN_FROM_SWAP : 0.0
+lief:header:characteristics:NET_RUN_FROM_SWAP : 0.0
+lief:header:characteristics:SYSTEM : 0.0
+lief:header:characteristics:DLL : 0.0
+lief:header:characteristics:UP_SYSTEM_ONLY : 0.0
+lief:optional_header:magic : 0.0
+lief:optional_header:win32_version_value : 0.0
+lief:optional_header:subsystem:UNKNOWN : 0.0
+lief:optional_header:subsystem:NATIVE : 0.0
+lief:optional_header:subsystem:OS2_CUI : 0.0
+lief:optional_header:subsystem:POSIX_CUI : 0.0
+lief:optional_header:subsystem:NATIVE_WINDOWS : 0.0
+lief:optional_header:subsystem:WINDOWS_CE_GUI : 0.0
+lief:optional_header:subsystem:EFI_APPLICATION : 0.0
+lief:optional_header:subsystem:EFI_BOOT_SERVICE_DRIVER : 0.0
+lief:optional_header:subsystem:EFI_RUNTIME_DRIVER : 0.0
+lief:optional_header:subsystem:EFI_ROM : 0.0
+lief:optional_header:subsystem:XBOX : 0.0
+lief:optional_header:subsystem:WINDOWS_BOOT_APPLICATION : 0.0
+lief:optional_header:subsystem:Out of range : 0.0
+lief:optional_header:dll_characteristics:RESERVED1 : 0.0
+lief:optional_header:dll_characteristics:RESERVED2 : 0.0
+lief:optional_header:dll_characteristics:RESERVED3 : 0.0
+lief:optional_header:dll_characteristics:RESERVED4 : 0.0
+lief:optional_header:dll_characteristics:RESERVED5 : 0.0
+lief:optional_header:dll_characteristics:HIGH_ENTROPY_VA : 0.0
+lief:optional_header:dll_characteristics:FORCE_INTEGRITY : 0.0
+lief:optional_header:dll_characteristics:NX_ISOLATION : 0.0
+lief:optional_header:dll_characteristics:APPCONTAINER : 0.0
+lief:optional_header:dll_characteristics:WDM_DRIVER : 0.0
+lief:optional_header:dll_characteristics:GUARD_CF : 0.0
+lief:optional_header:loader_flags : 0.0
+lief:sections:name:.rsrc:pointerto_relocation : 0.0
+lief:sections:name:.rsrc:pointerto_line_numbers : 0.0
+lief:sections:name:.rsrc:numberof_relocations : 0.0
+lief:sections:name:.rsrc:numberof_line_numbers : 0.0
+lief:sections:name:.text:pointerto_relocation : 0.0
+lief:sections:name:.text:pointerto_line_numbers : 0.0
+lief:sections:name:.text:numberof_relocations : 0.0
+lief:sections:name:.text:numberof_line_numbers : 0.0
+lief:sections:name:.data:pointerto_relocation : 0.0
+lief:sections:name:.data:pointerto_line_numbers : 0.0
+lief:sections:name:.data:numberof_relocations : 0.0
+lief:sections:name:.data:numberof_line_numbers : 0.0
+lief:sections:name:.rdata:pointerto_relocation : 0.0
+lief:sections:name:.rdata:pointerto_line_numbers : 0.0
+lief:sections:name:.rdata:numberof_relocations : 0.0
+lief:sections:name:.rdata:numberof_line_numbers : 0.0
+lief:sections:name:.reloc:pointerto_relocation : 0.0
+lief:sections:name:.reloc:pointerto_line_numbers : 0.0
+lief:sections:name:.reloc:numberof_relocations : 0.0
+lief:sections:name:.reloc:numberof_line_numbers : 0.0
+lief:sections:name:\xff\xff\xff\xff\xff\xff\xff\xff:exist : 0.0
+lief:sections:name:\xff\xff\xff\xff\xff\xff\xff\xff:pointerto_relocation : 0.0
+lief:sections:name:\xff\xff\xff\xff\xff\xff\xff\xff:pointerto_line_numbers : 0.0
+lief:sections:name:\xff\xff\xff\xff\xff\xff\xff\xff:numberof_relocations : 0.0
+lief:sections:name:\xff\xff\xff\xff\xff\xff\xff\xff:numberof_line_numbers : 0.0
+lief:sections:name:\xff\xff\xff\xff\xff\xff\xff\xff:entropy : 0.0
+lief:sections:name:.idata:pointerto_relocation : 0.0
+lief:sections:name:.idata:pointerto_line_numbers : 0.0
+lief:sections:name:.idata:numberof_relocations : 0.0
+lief:sections:name:.idata:numberof_line_numbers : 0.0
+lief:sections:name:.tls:pointerto_relocation : 0.0
+lief:sections:name:.tls:pointerto_line_numbers : 0.0
+lief:sections:name:.tls:numberof_relocations : 0.0
+lief:sections:name:.tls:numberof_line_numbers : 0.0
+lief:sections:name:.pdata:exist : 0.0
+lief:sections:name:.pdata:pointerto_relocation : 0.0
+lief:sections:name:.pdata:pointerto_line_numbers : 0.0
+lief:sections:name:.pdata:numberof_relocations : 0.0
+lief:sections:name:.pdata:numberof_line_numbers : 0.0
+lief:sections:name:.pdata:entropy : 0.0
+lief:sections:name:.bss:pointerto_relocation : 0.0
+lief:sections:name:.bss:pointerto_line_numbers : 0.0
+lief:sections:name:.bss:numberof_relocations : 0.0
+lief:sections:name:.bss:numberof_line_numbers : 0.0
+lief:sections:name:.bss:entropy : 0.0
+lief:sections:name:UPX0:pointerto_relocation : 0.0
+lief:sections:name:UPX0:pointerto_line_numbers : 0.0
+lief:sections:name:UPX0:numberof_relocations : 0.0
+lief:sections:name:UPX0:numberof_line_numbers : 0.0
+lief:sections:name:UPX0:entropy : 0.0
+lief:sections:name:UPX1:pointerto_relocation : 0.0
+lief:sections:name:UPX1:pointerto_line_numbers : 0.0
+lief:sections:name:UPX1:numberof_relocations : 0.0
+lief:sections:name:UPX1:numberof_line_numbers : 0.0
+lief:sections:name:\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3:exist : 0.0
+lief:sections:name:\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3:pointerto_relocation : 0.0
+lief:sections:name:\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3:pointerto_line_numbers : 0.0
+lief:sections:name:\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3:numberof_relocations : 0.0
+lief:sections:name:\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3:numberof_line_numbers : 0.0
+lief:sections:name:\xf3\xf3\xf3\xf3\xf3\xf3\xf3\xf3:entropy : 0.0
+lief:sections:name:.edata:pointerto_relocation : 0.0
+lief:sections:name:.edata:pointerto_line_numbers : 0.0
+lief:sections:name:.edata:numberof_relocations : 0.0
+lief:sections:name:.edata:numberof_line_numbers : 0.0
+lief:sections:name:\xf6\xf6\xf6\xf6\xf6\xf6\xf6\xf6:exist : 0.0
+lief:sections:name:\xf6\xf6\xf6\xf6\xf6\xf6\xf6\xf6:pointerto_relocation : 0.0
+lief:sections:name:\xf6\xf6\xf6\xf6\xf6\xf6\xf6\xf6:pointerto_line_numbers : 0.0
+lief:sections:name:\xf6\xf6\xf6\xf6\xf6\xf6\xf6\xf6:numberof_relocations : 0.0
+lief:sections:name:\xf6\xf6\xf6\xf6\xf6\xf6\xf6\xf6:numberof_line_numbers : 0.0
+lief:sections:name:\xf6\xf6\xf6\xf6\xf6\xf6\xf6\xf6:entropy : 0.0
+lief:sections:name:.gfids:pointerto_relocation : 0.0
+lief:sections:name:.gfids:pointerto_line_numbers : 0.0
+lief:sections:name:.gfids:numberof_relocations : 0.0
+lief:sections:name:.gfids:numberof_line_numbers : 0.0
+lief:sections:name:.CRT:pointerto_relocation : 0.0
+lief:sections:name:.CRT:pointerto_line_numbers : 0.0
+lief:sections:name:.CRT:numberof_relocations : 0.0
+lief:sections:name:.CRT:numberof_line_numbers : 0.0
+lief:sections:name:CODE:pointerto_relocation : 0.0
+lief:sections:name:CODE:pointerto_line_numbers : 0.0
+lief:sections:name:CODE:numberof_relocations : 0.0
+lief:sections:name:CODE:numberof_line_numbers : 0.0
+lief:sections:name:DATA:pointerto_relocation : 0.0
+lief:sections:name:DATA:pointerto_line_numbers : 0.0
+lief:sections:name:DATA:numberof_relocations : 0.0
+lief:sections:name:DATA:numberof_line_numbers : 0.0
+lief:sections:name:BSS:pointerto_relocation : 0.0
+lief:sections:name:BSS:pointerto_line_numbers : 0.0
+lief:sections:name:BSS:numberof_relocations : 0.0
+lief:sections:name:BSS:numberof_line_numbers : 0.0
+lief:sections:name:BSS:entropy : 0.0
+lief:sections:name:.bak:exist : 0.0
+lief:sections:name:.bak:pointerto_relocation : 0.0
+lief:sections:name:.bak:pointerto_line_numbers : 0.0
+lief:sections:name:.bak:numberof_relocations : 0.0
+lief:sections:name:.bak:numberof_line_numbers : 0.0
+lief:sections:name:.bak:entropy : 0.0
+lief:sections:name:/4:pointerto_relocation : 0.0
+lief:sections:name:/4:pointerto_line_numbers : 0.0
+lief:sections:name:/4:numberof_relocations : 0.0
+lief:sections:name:/4:numberof_line_numbers : 0.0
+lief:sections:name:.itext:exist : 0.0
+lief:sections:name:.itext:pointerto_relocation : 0.0
+lief:sections:name:.itext:pointerto_line_numbers : 0.0
+lief:sections:name:.itext:numberof_relocations : 0.0
+lief:sections:name:.itext:numberof_line_numbers : 0.0
+lief:sections:name:.itext:entropy : 0.0
+lief:sections:name:.imports:exist : 0.0
+lief:sections:name:.imports:pointerto_relocation : 0.0
+lief:sections:name:.imports:pointerto_line_numbers : 0.0
+lief:sections:name:.imports:numberof_relocations : 0.0
+lief:sections:name:.imports:numberof_line_numbers : 0.0
+lief:sections:name:.imports:entropy : 0.0
+lief:sections:name:.code:exist : 0.0
+lief:sections:name:.code:pointerto_relocation : 0.0
+lief:sections:name:.code:pointerto_line_numbers : 0.0
+lief:sections:name:.code:numberof_relocations : 0.0
+lief:sections:name:.code:numberof_line_numbers : 0.0
+lief:sections:name:.code:entropy : 0.0
+lief:sections:name:.xdata:pointerto_relocation : 0.0
+lief:sections:name:.xdata:pointerto_line_numbers : 0.0
+lief:sections:name:.xdata:numberof_relocations : 0.0
+lief:sections:name:.xdata:numberof_line_numbers : 0.0
+lief:sections:name:.aspack:pointerto_relocation : 0.0
+lief:sections:name:.aspack:pointerto_line_numbers : 0.0
+lief:sections:name:.aspack:numberof_relocations : 0.0
+lief:sections:name:.aspack:numberof_line_numbers : 0.0
+lief:sections:name:.NewSec:exist : 0.0
+lief:sections:name:.NewSec:pointerto_relocation : 0.0
+lief:sections:name:.NewSec:pointerto_line_numbers : 0.0
+lief:sections:name:.NewSec:numberof_relocations : 0.0
+lief:sections:name:.NewSec:numberof_line_numbers : 0.0
+lief:sections:name:.NewSec:entropy : 0.0
+lief:sections:name:UPX2:pointerto_relocation : 0.0
+lief:sections:name:UPX2:pointerto_line_numbers : 0.0
+lief:sections:name:UPX2:numberof_relocations : 0.0
+lief:sections:name:UPX2:numberof_line_numbers : 0.0
+lief:sections:name:.00cfg:pointerto_relocation : 0.0
+lief:sections:name:.00cfg:pointerto_line_numbers : 0.0
+lief:sections:name:.00cfg:numberof_relocations : 0.0
+lief:sections:name:.00cfg:numberof_line_numbers : 0.0
+lief:sections:name:.adata:pointerto_relocation : 0.0
+lief:sections:name:.adata:pointerto_line_numbers : 0.0
+lief:sections:name:.adata:numberof_relocations : 0.0
+lief:sections:name:.adata:numberof_line_numbers : 0.0
+lief:sections:name:.adata:entropy : 0.0
+lief:sections:name:\xe7\xf7\xff\xe7\xf7\xff\xe7\xf7:exist : 0.0
+lief:sections:name:\xe7\xf7\xff\xe7\xf7\xff\xe7\xf7:pointerto_relocation : 0.0
+lief:sections:name:\xe7\xf7\xff\xe7\xf7\xff\xe7\xf7:pointerto_line_numbers : 0.0
+lief:sections:name:\xe7\xf7\xff\xe7\xf7\xff\xe7\xf7:numberof_relocations : 0.0
+lief:sections:name:\xe7\xf7\xff\xe7\xf7\xff\xe7\xf7:numberof_line_numbers : 0.0
+lief:sections:name:\xe7\xf7\xff\xe7\xf7\xff\xe7\xf7:entropy : 0.0
+lief:sections:name:\xf7\xff\xe7\xf7\xff\xe7\xf7\xff:exist : 0.0
+lief:sections:name:\xf7\xff\xe7\xf7\xff\xe7\xf7\xff:pointerto_relocation : 0.0
+lief:sections:name:\xf7\xff\xe7\xf7\xff\xe7\xf7\xff:pointerto_line_numbers : 0.0
+lief:sections:name:\xf7\xff\xe7\xf7\xff\xe7\xf7\xff:numberof_relocations : 0.0
+lief:sections:name:\xf7\xff\xe7\xf7\xff\xe7\xf7\xff:numberof_line_numbers : 0.0
+lief:sections:name:\xf7\xff\xe7\xf7\xff\xe7\xf7\xff:entropy : 0.0
+lief:sections:name:\xff\xe7\xf7\xff\xe7\xf7\xff\xe7:exist : 0.0
+lief:sections:name:\xff\xe7\xf7\xff\xe7\xf7\xff\xe7:pointerto_relocation : 0.0
+lief:sections:name:\xff\xe7\xf7\xff\xe7\xf7\xff\xe7:pointerto_line_numbers : 0.0
+lief:sections:name:\xff\xe7\xf7\xff\xe7\xf7\xff\xe7:numberof_relocations : 0.0
+lief:sections:name:\xff\xe7\xf7\xff\xe7\xf7\xff\xe7:numberof_line_numbers : 0.0
+lief:sections:name:\xff\xe7\xf7\xff\xe7\xf7\xff\xe7:entropy : 0.0
+lief:sections:name:.didata:pointerto_relocation : 0.0
+lief:sections:name:.didata:pointerto_line_numbers : 0.0
+lief:sections:name:.didata:numberof_relocations : 0.0
+lief:sections:name:.didata:numberof_line_numbers : 0.0
+lief:sections:name:\xff:exist : 0.0
+lief:sections:name:\xff:pointerto_relocation : 0.0
+lief:sections:name:\xff:pointerto_line_numbers : 0.0
+lief:sections:name:\xff:numberof_relocations : 0.0
+lief:sections:name:\xff:numberof_line_numbers : 0.0
+lief:sections:name:\xff:entropy : 0.0
+lief:sections:name:\xe9\xe9\xe9\xe9\xe9\xe9\xe9\xe9:exist : 0.0
+lief:sections:name:\xe9\xe9\xe9\xe9\xe9\xe9\xe9\xe9:pointerto_relocation : 0.0
+lief:sections:name:\xe9\xe9\xe9\xe9\xe9\xe9\xe9\xe9:pointerto_line_numbers : 0.0
+lief:sections:name:\xe9\xe9\xe9\xe9\xe9\xe9\xe9\xe9:numberof_relocations : 0.0
+lief:sections:name:\xe9\xe9\xe9\xe9\xe9\xe9\xe9\xe9:numberof_line_numbers : 0.0
+lief:sections:name:\xe9\xe9\xe9\xe9\xe9\xe9\xe9\xe9:entropy : 0.0
+lief:sections:name:.ndata:exist : 0.0
+lief:sections:name:.ndata:pointerto_relocation : 0.0
+lief:sections:name:.ndata:pointerto_line_numbers : 0.0
+lief:sections:name:.ndata:numberof_relocations : 0.0
+lief:sections:name:.ndata:numberof_line_numbers : 0.0
+lief:sections:name:.ndata:entropy : 0.0
+lief:sections:name:_RDATA:exist : 0.0
+lief:sections:name:_RDATA:pointerto_relocation : 0.0
+lief:sections:name:_RDATA:pointerto_line_numbers : 0.0
+lief:sections:name:_RDATA:numberof_relocations : 0.0
+lief:sections:name:_RDATA:numberof_line_numbers : 0.0
+lief:sections:name:_RDATA:entropy : 0.0
+lief:sections:name:.qtmetad:pointerto_relocation : 0.0
+lief:sections:name:.qtmetad:pointerto_line_numbers : 0.0
+lief:sections:name:.qtmetad:numberof_relocations : 0.0
+lief:sections:name:.qtmetad:numberof_line_numbers : 0.0
+lief:sections:name:f\xff:exist : 0.0
+lief:sections:name:f\xff:pointerto_relocation : 0.0
+lief:sections:name:f\xff:pointerto_line_numbers : 0.0
+lief:sections:name:f\xff:numberof_relocations : 0.0
+lief:sections:name:f\xff:numberof_line_numbers : 0.0
+lief:sections:name:f\xff:entropy : 0.0
+lief:sections:name:.MPRESS1:pointerto_relocation : 0.0
+lief:sections:name:.MPRESS1:pointerto_line_numbers : 0.0
+lief:sections:name:.MPRESS1:numberof_relocations : 0.0
+lief:sections:name:.MPRESS1:numberof_line_numbers : 0.0
+lief:sections:name:.MPRESS2:pointerto_relocation : 0.0
+lief:sections:name:.MPRESS2:pointerto_line_numbers : 0.0
+lief:sections:name:.MPRESS2:numberof_relocations : 0.0
+lief:sections:name:.MPRESS2:numberof_line_numbers : 0.0
+lief:sections:name:.:exist : 0.0
+lief:sections:name:.:pointerto_relocation : 0.0
+lief:sections:name:.:pointerto_line_numbers : 0.0
+lief:sections:name:.:numberof_relocations : 0.0
+lief:sections:name:.:numberof_line_numbers : 0.0
+lief:sections:name:.:entropy : 0.0
+lief:sections:name:/19:exist : 0.0
+lief:sections:name:/19:pointerto_relocation : 0.0
+lief:sections:name:/19:pointerto_line_numbers : 0.0
+lief:sections:name:/19:numberof_relocations : 0.0
+lief:sections:name:/19:numberof_line_numbers : 0.0
+lief:sections:name:/19:entropy : 0.0
+lief:sections:name:petite:pointerto_relocation : 0.0
+lief:sections:name:petite:pointerto_line_numbers : 0.0
+lief:sections:name:petite:numberof_relocations : 0.0
+lief:sections:name:petite:numberof_line_numbers : 0.0
+lief:sections:name:/57:exist : 0.0
+lief:sections:name:/57:pointerto_relocation : 0.0
+lief:sections:name:/57:pointerto_line_numbers : 0.0
+lief:sections:name:/57:numberof_relocations : 0.0
+lief:sections:name:/57:numberof_line_numbers : 0.0
+lief:sections:name:/57:entropy : 0.0
+lief:sections:name:/31:exist : 0.0
+lief:sections:name:/31:pointerto_relocation : 0.0
+lief:sections:name:/31:pointerto_line_numbers : 0.0
+lief:sections:name:/31:numberof_relocations : 0.0
+lief:sections:name:/31:numberof_line_numbers : 0.0
+lief:sections:name:/31:entropy : 0.0
+lief:sections:name:\xce\xce\xce\xce\xce\xce\xce\xce:exist : 0.0
+lief:sections:name:\xce\xce\xce\xce\xce\xce\xce\xce:pointerto_relocation : 0.0
+lief:sections:name:\xce\xce\xce\xce\xce\xce\xce\xce:pointerto_line_numbers : 0.0
+lief:sections:name:\xce\xce\xce\xce\xce\xce\xce\xce:numberof_relocations : 0.0
+lief:sections:name:\xce\xce\xce\xce\xce\xce\xce\xce:numberof_line_numbers : 0.0
+lief:sections:name:\xce\xce\xce\xce\xce\xce\xce\xce:entropy : 0.0
+lief:sections:name:kkrunchy:exist : 0.0
+lief:sections:name:kkrunchy:pointerto_relocation : 0.0
+lief:sections:name:kkrunchy:pointerto_line_numbers : 0.0
+lief:sections:name:kkrunchy:numberof_relocations : 0.0
+lief:sections:name:kkrunchy:numberof_line_numbers : 0.0
+lief:sections:name:kkrunchy:entropy : 0.0
+lief:sections:name:/45:exist : 0.0
+lief:sections:name:/45:pointerto_relocation : 0.0
+lief:sections:name:/45:pointerto_line_numbers : 0.0
+lief:sections:name:/45:numberof_relocations : 0.0
+lief:sections:name:/45:numberof_line_numbers : 0.0
+lief:sections:name:/45:entropy : 0.0
+lief:sections:name:/70:exist : 0.0
+lief:sections:name:/70:pointerto_relocation : 0.0
+lief:sections:name:/70:pointerto_line_numbers : 0.0
+lief:sections:name:/70:numberof_relocations : 0.0
+lief:sections:name:/70:numberof_line_numbers : 0.0
+lief:sections:name:/70:entropy : 0.0
+lief:sections:name:\xeb\xec\xe6\xeb\xec\xe6\xeb\xec:exist : 0.0
+lief:sections:name:\xeb\xec\xe6\xeb\xec\xe6\xeb\xec:pointerto_relocation : 0.0
+lief:sections:name:\xeb\xec\xe6\xeb\xec\xe6\xeb\xec:pointerto_line_numbers : 0.0
+lief:sections:name:\xeb\xec\xe6\xeb\xec\xe6\xeb\xec:numberof_relocations : 0.0
+lief:sections:name:\xeb\xec\xe6\xeb\xec\xe6\xeb\xec:numberof_line_numbers : 0.0
+lief:sections:name:\xeb\xec\xe6\xeb\xec\xe6\xeb\xec:entropy : 0.0
+lief:sections:name:\xe6\xeb\xec\xe6\xeb\xec\xe6\xeb:exist : 0.0
+lief:sections:name:\xe6\xeb\xec\xe6\xeb\xec\xe6\xeb:pointerto_relocation : 0.0
+lief:sections:name:\xe6\xeb\xec\xe6\xeb\xec\xe6\xeb:pointerto_line_numbers : 0.0
+lief:sections:name:\xe6\xeb\xec\xe6\xeb\xec\xe6\xeb:numberof_relocations : 0.0
+lief:sections:name:\xe6\xeb\xec\xe6\xeb\xec\xe6\xeb:numberof_line_numbers : 0.0
+lief:sections:name:\xe6\xeb\xec\xe6\xeb\xec\xe6\xeb:entropy : 0.0
+lief:sections:name:/81:exist : 0.0
+lief:sections:name:/81:pointerto_relocation : 0.0
+lief:sections:name:/81:pointerto_line_numbers : 0.0
+lief:sections:name:/81:numberof_relocations : 0.0
+lief:sections:name:/81:numberof_line_numbers : 0.0
+lief:sections:name:/81:entropy : 0.0
+lief:sections:characteristics:TYPE_NO_PAD : 0.0
+lief:sections:characteristics:LNK_OTHER : 0.0
+lief:sections:characteristics:LNK_INFO : 0.0
+lief:sections:characteristics:LNK_REMOVE : 0.0
+lief:sections:characteristics:LNK_COMDAT : 0.0
+lief:sections:characteristics:GPREL : 0.0
+lief:sections:characteristics:MEM_PURGEABLE : 0.0
+lief:sections:characteristics:MEM_16BIT : 0.0
+lief:sections:characteristics:MEM_LOCKED : 0.0
+lief:sections:characteristics:MEM_PRELOAD : 0.0
+lief:sections:characteristics:ALIGN_128BYTES : 0.0
+lief:sections:characteristics:LNK_NRELOC_OVFL : 0.0
+lief:sections:characteristics:MEM_NOT_CACHED : 0.0
+lief:sections:characteristics:MEM_NOT_PAGED : 0.0
+lief:sections:types:TEXT : 0.0
+lief:sections:types:DATA : 0.0
+lief:sections:types:BSS : 0.0
+lief:sections:types:EXPORT : 0.0
+lief:relocations:HIGH : 0.0
+lief:relocations:LOW : 0.0
+lief:relocations:HIGHADJ : 0.0
+lief:relocations:MIPS_JMPADDR | ARM_MOV32A | ARM_MOV32 | RISCV_HI20 : 0.0
+lief:relocations:SECTION : 0.0
+lief:relocations:REL | ARM_MOV32T | THUMB_MOV32 | RISCV_LOW12I : 0.0
+lief:relocations:RISCV_LOW12S : 0.0
+lief:relocations:MIPS_JMPADDR16 | IA64_IMM64 : 0.0
+lief:relocations:DIR64 : 0.0
+lief:relocations:HIGH3ADJ : 0.0
+lief:relocations:Out of range : 0.0
+lief:tls:sizeof_zero_fill : 0.0
+lief:tls:characteristics:ALIGN_1BYTES : 0.0
+lief:tls:characteristics:ALIGN_2BYTES : 0.0
+lief:tls:characteristics:ALIGN_8BYTES : 0.0
+lief:tls:characteristics:ALIGN_16BYTES : 0.0
+lief:tls:characteristics:ALIGN_32BYTES : 0.0
+lief:tls:characteristics:ALIGN_64BYTES : 0.0
+lief:tls:characteristics:ALIGN_128BYTES : 0.0
+lief:tls:characteristics:ALIGN_256BYTES : 0.0
+lief:tls:characteristics:ALIGN_512BYTES : 0.0
+lief:tls:characteristics:ALIGN_1024BYTES : 0.0
+lief:tls:characteristics:ALIGN_2048BYTES : 0.0
+lief:tls:characteristics:ALIGN_4096BYTES : 0.0
+lief:tls:characteristics:ALIGN_8192BYTES : 0.0
+lief:tls:characteristics:has_extra_bits : 0.0
+lief:tls:data_directory:EXPORT_TABLE : 0.0
+lief:tls:data_directory:IMPORT_TABLE : 0.0
+lief:tls:data_directory:RESOURCE_TABLE : 0.0
+lief:tls:data_directory:EXCEPTION_TABLE : 0.0
+lief:tls:data_directory:CERTIFICATE_TABLE : 0.0
+lief:tls:data_directory:BASE_RELOCATION_TABLE : 0.0
+lief:tls:data_directory:DEBUG : 0.0
+lief:tls:data_directory:ARCHITECTURE : 0.0
+lief:tls:data_directory:GLOBAL_PTR : 0.0
+lief:tls:data_directory:LOAD_CONFIG_TABLE : 0.0
+lief:tls:data_directory:BOUND_IMPORT : 0.0
+lief:tls:data_directory:IAT : 0.0
+lief:tls:data_directory:DELAY_IMPORT_DESCRIPTOR : 0.0
+lief:tls:data_directory:CLR_RUNTIME_HEADER : 0.0
+lief:export:export_flags : 0.0
+lief:export:major_version : 0.0
+lief:export:minor_version : 0.0
+lief:debug:UNKNOWN : 0.0
+lief:debug:COFF : 0.0
+lief:debug:FPO : 0.0
+lief:debug:MISC : 0.0
+lief:debug:EXCEPTION : 0.0
+lief:debug:FIXUP : 0.0
+lief:debug:OMAP_TO_SRC : 0.0
+lief:debug:OMAP_FROM_SRC : 0.0
+lief:debug:BORLAND : 0.0
+lief:debug:RESERVED : 0.0
+lief:debug:CLSID : 0.0
+lief:debug:MPX : 0.0
+lief:debug:REPRO : 0.0
+lief:debug:EX_DLLCHARACTERISTICS : 0.0
+lief:debug:UNKNOWN : 0.0
+lief:debug:PDB_20 : 0.0
+lief:debug:CV_50 : 0.0
+lief:debug:CV_41 : 0.0
+lief:debug:UNKNOWN : 0.0
+lief:debug:PGI : 0.0
+lief:imports:oleaut32.dll:forwarder_chain : 0.0
+lief:imports:comctl32.dll:forwarder_chain : 0.0
+lief:imports:mscoree.dll:forwarder_chain : 0.0
+lief:imports:mscoree.dll:timedatestamp : 0.0
+lief:imports:version.dll:forwarder_chain : 0.0
+lief:imports:api-ms-win-crt-runtime-l1-1-0.dll:forwarder_chain : 0.0
+lief:imports:api-ms-win-crt-runtime-l1-1-0.dll:timedatestamp : 0.0
+lief:imports:api-ms-win-crt-runtime-l1-1-0.dll:import_lookup_table_rva : 0.0
+lief:imports:vcruntime140.dll:num of api : 0.0
+lief:imports:vcruntime140.dll:forwarder_chain : 0.0
+lief:imports:vcruntime140.dll:import_address_table_rva : 0.0
+lief:imports:wininet.dll:forwarder_chain : 0.0
+lief:imports:wininet.dll:timedatestamp : 0.0
+lief:imports:api-ms-win-crt-heap-l1-1-0.dll:num of api : 0.0
+lief:imports:api-ms-win-crt-heap-l1-1-0.dll:forwarder_chain : 0.0
+lief:imports:api-ms-win-crt-heap-l1-1-0.dll:import_address_table_rva : 0.0
+lief:imports:api-ms-win-crt-heap-l1-1-0.dll:import_lookup_table_rva : 0.0
+lief:imports:winmm.dll:forwarder_chain : 0.0
+lief:imports:api-ms-win-crt-stdio-l1-1-0.dll:forwarder_chain : 0.0
+lief:imports:api-ms-win-crt-stdio-l1-1-0.dll:timedatestamp : 0.0
+lief:imports:api-ms-win-crt-stdio-l1-1-0.dll:import_lookup_table_rva : 0.0
+lief:imports:wsock32.dll:num of api : 0.0
+lief:imports:wsock32.dll:forwarder_chain : 0.0
+lief:imports:wsock32.dll:timedatestamp : 0.0
+lief:imports:wsock32.dll:import_lookup_table_rva : 0.0
+lief:imports:api-ms-win-crt-string-l1-1-0.dll:num of api : 0.0
+lief:imports:api-ms-win-crt-string-l1-1-0.dll:forwarder_chain : 0.0
+lief:imports:api-ms-win-crt-string-l1-1-0.dll:timedatestamp : 0.0
+lief:imports:api-ms-win-crt-string-l1-1-0.dll:import_address_table_rva : 0.0
+lief:imports:api-ms-win-crt-string-l1-1-0.dll:import_lookup_table_rva : 0.0
+lief:imports:mpr.dll:forwarder_chain : 0.0
+lief:imports:msvcp140.dll:num of api : 0.0
+lief:imports:msvcp140.dll:forwarder_chain : 0.0
+lief:imports:msvcp140.dll:timedatestamp : 0.0
+lief:imports:msvcp140.dll:import_address_table_rva : 0.0
+lief:imports:msvcp140.dll:import_lookup_table_rva : 0.0
+lief:imports:api-ms-win-crt-math-l1-1-0.dll:forwarder_chain : 0.0
+lief:imports:api-ms-win-crt-math-l1-1-0.dll:import_lookup_table_rva : 0.0
+lief:imports:winspool.drv:forwarder_chain : 0.0
+lief:imports:winspool.drv:timedatestamp : 0.0
+lief:imports:msvbvm60.dll:num of api : 0.0
+lief:imports:msvbvm60.dll:forwarder_chain : 0.0
+lief:imports:msvbvm60.dll:timedatestamp : 0.0
+lief:imports:msvbvm60.dll:import_address_table_rva : 0.0
+lief:imports:msvbvm60.dll:import_lookup_table_rva : 0.0
+lief:imports:api-ms-win-crt-convert-l1-1-0.dll:forwarder_chain : 0.0
+lief:imports:api-ms-win-crt-convert-l1-1-0.dll:timedatestamp : 0.0
+lief:imports:api-ms-win-crt-convert-l1-1-0.dll:import_address_table_rva : 0.0
+lief:imports:api-ms-win-crt-convert-l1-1-0.dll:import_lookup_table_rva : 0.0
+lief:imports:iphlpapi.dll:forwarder_chain : 0.0
+lief:imports:iphlpapi.dll:import_lookup_table_rva : 0.0
+lief:imports:psapi.dll:forwarder_chain : 0.0
+lief:imports:msimg32.dll:forwarder_chain : 0.0
+lief:imports:msimg32.dll:timedatestamp : 0.0
+lief:imports:msimg32.dll:import_lookup_table_rva : 0.0
+lief:imports:qt5core.dll:num of api : 0.0
+lief:imports:qt5core.dll:forwarder_chain : 0.0
+lief:imports:qt5core.dll:timedatestamp : 0.0
+lief:imports:qt5core.dll:import_address_table_rva : 0.0
+lief:imports:qt5core.dll:import_lookup_table_rva : 0.0
+lief:imports:msvcr120.dll:num of api : 0.0
+lief:imports:msvcr120.dll:forwarder_chain : 0.0
+lief:imports:msvcr120.dll:timedatestamp : 0.0
+lief:imports:gdiplus.dll:timedatestamp : 0.0
+lief:imports:userenv.dll:num of api : 0.0
+lief:imports:userenv.dll:forwarder_chain : 0.0
+lief:imports:userenv.dll:timedatestamp : 0.0
+lief:imports:userenv.dll:import_address_table_rva : 0.0
+lief:imports:userenv.dll:import_lookup_table_rva : 0.0
+lief:imports:api-ms-win-crt-locale-l1-1-0.dll:forwarder_chain : 0.0
+lief:imports:api-ms-win-crt-locale-l1-1-0.dll:timedatestamp : 0.0
+lief:imports:api-ms-win-crt-locale-l1-1-0.dll:import_address_table_rva : 0.0
+lief:imports:api-ms-win-crt-locale-l1-1-0.dll:import_lookup_table_rva : 0.0
+lief:imports:urlmon.dll:forwarder_chain : 0.0
+lief:imports:urlmon.dll:import_address_table_rva : 0.0
+lief:imports:crypt32.dll:forwarder_chain : 0.0
+lief:imports:crypt32.dll:timedatestamp : 0.0
+lief:imports:crypt32.dll:import_lookup_table_rva : 0.0
+lief:imports:api-ms-win-crt-time-l1-1-0.dll:num of api : 0.0
+lief:imports:api-ms-win-crt-time-l1-1-0.dll:forwarder_chain : 0.0
+lief:imports:api-ms-win-crt-time-l1-1-0.dll:timedatestamp : 0.0
+lief:imports:api-ms-win-crt-time-l1-1-0.dll:import_address_table_rva : 0.0
+lief:imports:api-ms-win-crt-time-l1-1-0.dll:import_lookup_table_rva : 0.0
+lief:imports:api-ms-win-crt-filesystem-l1-1-0.dll:num of api : 0.0
+lief:imports:api-ms-win-crt-filesystem-l1-1-0.dll:forwarder_chain : 0.0
+lief:imports:api-ms-win-crt-filesystem-l1-1-0.dll:timedatestamp : 0.0
+lief:imports:api-ms-win-crt-filesystem-l1-1-0.dll:import_address_table_rva : 0.0
+lief:imports:api-ms-win-crt-filesystem-l1-1-0.dll:import_lookup_table_rva : 0.0
+lief:imports:api-ms-win-crt-utility-l1-1-0.dll:num of api : 0.0
+lief:imports:api-ms-win-crt-utility-l1-1-0.dll:forwarder_chain : 0.0
+lief:imports:api-ms-win-crt-utility-l1-1-0.dll:timedatestamp : 0.0
+lief:imports:api-ms-win-crt-utility-l1-1-0.dll:import_address_table_rva : 0.0
+lief:imports:api-ms-win-crt-utility-l1-1-0.dll:import_lookup_table_rva : 0.0
+lief:imports:uxtheme.dll:forwarder_chain : 0.0
+lief:imports:uxtheme.dll:timedatestamp : 0.0
+lief:imports:uxtheme.dll:import_lookup_table_rva : 0.0
+lief:imports:rpcrt4.dll:forwarder_chain : 0.0
+lief:imports:rpcrt4.dll:timedatestamp : 0.0
+lief:imports:qt5gui.dll:num of api : 0.0
+lief:imports:qt5gui.dll:forwarder_chain : 0.0
+lief:imports:qt5gui.dll:timedatestamp : 0.0
+lief:imports:qt5gui.dll:import_address_table_rva : 0.0
+lief:imports:qt5gui.dll:import_lookup_table_rva : 0.0
+lief:imports:api-ms-win-crt-environment-l1-1-0.dll:num of api : 0.0
+lief:imports:api-ms-win-crt-environment-l1-1-0.dll:forwarder_chain : 0.0
+lief:imports:api-ms-win-crt-environment-l1-1-0.dll:timedatestamp : 0.0
+lief:imports:api-ms-win-crt-environment-l1-1-0.dll:import_address_table_rva : 0.0
+lief:imports:api-ms-win-crt-environment-l1-1-0.dll:import_lookup_table_rva : 0.0
+lief:imports:msvcp120.dll:num of api : 0.0
+lief:imports:msvcp120.dll:forwarder_chain : 0.0
+lief:imports:msvcp120.dll:timedatestamp : 0.0
+lief:imports:msvcp120.dll:import_address_table_rva : 0.0
+lief:imports:msvcp120.dll:import_lookup_table_rva : 0.0
+lief:imports:netapi32.dll:forwarder_chain : 0.0
+lief:imports:netapi32.dll:import_lookup_table_rva : 0.0
+lief:imports:imm32.dll:forwarder_chain : 0.0
+lief:imports:imm32.dll:timedatestamp : 0.0
+lief:imports:winhttp.dll:num of api : 0.0
+lief:imports:winhttp.dll:forwarder_chain : 0.0
+lief:imports:winhttp.dll:timedatestamp : 0.0
+lief:imports:winhttp.dll:import_address_table_rva : 0.0
+lief:imports:winhttp.dll:import_lookup_table_rva : 0.0
+lief:imports:setupapi.dll:forwarder_chain : 0.0
+lief:imports:setupapi.dll:timedatestamp : 0.0
+lief:imports:setupapi.dll:import_address_table_rva : 0.0
+lief:imports:setupapi.dll:import_lookup_table_rva : 0.0
+lief:imports:crtdll.dll:forwarder_chain : 0.0
+lief:imports:crtdll.dll:import_address_table_rva : 0.0
+lief:imports:crtdll.dll:import_lookup_table_rva : 0.0
+lief:imports:msvcr90.dll:forwarder_chain : 0.0
+lief:imports:msvcr100.dll:forwarder_chain : 0.0
+lief:imports:msvcr100.dll:timedatestamp : 0.0
+lief:imports:rtl120.bpl:num of api : 0.0
+lief:imports:rtl120.bpl:forwarder_chain : 0.0
+lief:imports:rtl120.bpl:timedatestamp : 0.0
+lief:imports:rtl120.bpl:import_address_table_rva : 0.0
+lief:imports:rtl120.bpl:import_lookup_table_rva : 0.0
+lief:imports:oleacc.dll:forwarder_chain : 0.0
+lief:imports:oleacc.dll:timedatestamp : 0.0
+lief:imports:oleacc.dll:import_address_table_rva : 0.0
+lief:imports:libvlccore.dll:num of api : 0.0
+lief:imports:libvlccore.dll:forwarder_chain : 0.0
+lief:imports:libvlccore.dll:timedatestamp : 0.0
+lief:imports:libvlccore.dll:import_address_table_rva : 0.0
+lief:imports:libvlccore.dll:import_lookup_table_rva : 0.0
+lief:imports:qt5widgets.dll:num of api : 0.0
+lief:imports:qt5widgets.dll:forwarder_chain : 0.0
+lief:imports:qt5widgets.dll:timedatestamp : 0.0
+lief:imports:qt5widgets.dll:import_address_table_rva : 0.0
+lief:imports:qt5widgets.dll:import_lookup_table_rva : 0.0
+lief:imports:libstdc++-6.dll:forwarder_chain : 0.0
+lief:imports:wtsapi32.dll:num of api : 0.0
+lief:imports:wtsapi32.dll:forwarder_chain : 0.0
+lief:imports:wtsapi32.dll:timedatestamp : 0.0
+lief:imports:wtsapi32.dll:import_address_table_rva : 0.0
+lief:imports:wtsapi32.dll:import_lookup_table_rva : 0.0
+lief:imports:msvcr80.dll:forwarder_chain : 0.0
+lief:imports:vcl120.bpl:num of api : 0.0
+lief:imports:vcl120.bpl:forwarder_chain : 0.0
+lief:imports:vcl120.bpl:timedatestamp : 0.0
+lief:imports:vcl120.bpl:import_address_table_rva : 0.0
+lief:imports:vcl120.bpl:import_lookup_table_rva : 0.0
+lief:imports:msvcr110.dll:num of api : 0.0
+lief:imports:msvcr110.dll:forwarder_chain : 0.0
+lief:imports:msvcr110.dll:timedatestamp : 0.0
+lief:imports:msvcr110.dll:import_address_table_rva : 0.0
+lief:imports:msvcr110.dll:import_lookup_table_rva : 0.0
+lief:imports:rtl70.bpl:num of api : 0.0
+lief:imports:rtl70.bpl:forwarder_chain : 0.0
+lief:imports:rtl70.bpl:timedatestamp : 0.0
+lief:imports:rtl70.bpl:import_address_table_rva : 0.0
+lief:imports:rtl70.bpl:import_lookup_table_rva : 0.0
+lief:imports:dbghelp.dll:num of api : 0.0
+lief:imports:dbghelp.dll:forwarder_chain : 0.0
+lief:imports:dbghelp.dll:timedatestamp : 0.0
+lief:imports:dbghelp.dll:import_lookup_table_rva : 0.0
+lief:imports:oledlg.dll:num of api : 0.0
+lief:imports:oledlg.dll:forwarder_chain : 0.0
+lief:imports:oledlg.dll:timedatestamp : 0.0
+lief:imports:avutil-50.dll:num of api : 0.0
+lief:imports:avutil-50.dll:forwarder_chain : 0.0
+lief:imports:avutil-50.dll:timedatestamp : 0.0
+lief:imports:avutil-50.dll:import_address_table_rva : 0.0
+lief:imports:avutil-50.dll:import_lookup_table_rva : 0.0
+lief:imports:rtl160.bpl:num of api : 0.0
+lief:imports:rtl160.bpl:forwarder_chain : 0.0
+lief:imports:rtl160.bpl:timedatestamp : 0.0
+lief:imports:rtl160.bpl:import_address_table_rva : 0.0
+lief:imports:rtl160.bpl:import_lookup_table_rva : 0.0
+lief:imports:vcl70.bpl:num of api : 0.0
+lief:imports:vcl70.bpl:forwarder_chain : 0.0
+lief:imports:vcl70.bpl:timedatestamp : 0.0
+lief:imports:vcl70.bpl:import_address_table_rva : 0.0
+lief:imports:vcl70.bpl:import_lookup_table_rva : 0.0
+lief:imports:mfc42.dll:num of api : 0.0
+lief:imports:mfc42.dll:forwarder_chain : 0.0
+lief:imports:mfc42.dll:timedatestamp : 0.0
+lief:imports:mfc42.dll:import_lookup_table_rva : 0.0
+lief:imports:wintrust.dll:forwarder_chain : 0.0
+lief:imports:wintrust.dll:timedatestamp : 0.0
+lief:imports:wintrust.dll:import_lookup_table_rva : 0.0
+lief:imports:shfolder.dll:num of api : 0.0
+lief:imports:shfolder.dll:forwarder_chain : 0.0
+lief:imports:shfolder.dll:timedatestamp : 0.0
+lief:imports:shfolder.dll:import_address_table_rva : 0.0
+lief:imports:shfolder.dll:import_lookup_table_rva : 0.0
+lief:resources_manager:version:type : 0.0
+lief:resources_manager:version:fixed_file_info:file_flags:DEBUG : 0.0
+lief:resources_manager:version:fixed_file_info:file_flags:INFOINFERRED : 0.0
+lief:resources_manager:version:fixed_file_info:file_flags:SPECIALBUILD : 0.0
+lief:resources_manager:version:fixed_file_info:file_os:UNKNOWN : 0.0
+lief:resources_manager:version:fixed_file_info:file_os:DOS : 0.0
+lief:resources_manager:version:fixed_file_info:file_os:NT : 0.0
+lief:resources_manager:version:fixed_file_info:file_os:WINDOWS16 : 0.0
+lief:resources_manager:version:fixed_file_info:file_os:OS216 : 0.0
+lief:resources_manager:version:fixed_file_info:file_os:OS232 : 0.0
+lief:resources_manager:version:fixed_file_info:file_os:PM16 : 0.0
+lief:resources_manager:version:fixed_file_info:file_os:PM32 : 0.0
+lief:resources_manager:version:fixed_file_info:file_os:DOS_WINDOWS32 : 0.0
+lief:resources_manager:version:fixed_file_info:file_os:OS216_PM16 : 0.0
+lief:resources_manager:version:fixed_file_info:file_os:OS232_PM32 : 0.0
+lief:resources_manager:version:fixed_file_info:file_os:Out of range : 0.0
+lief:resources_manager:version:fixed_file_info:file_type:STATIC_LIB : 0.0
+lief:resources_manager:version:fixed_file_info:file_type:VXD : 0.0
+lief:resources_manager:version:fixed_file_info:file_type:Out of range : 0.0
+lief:resources_manager:version:fixed_file_info:file_subtype:DRV_COMM : 0.0
+lief:resources_manager:version:fixed_file_info:file_subtype:DRV_DISPLAY : 0.0
+lief:resources_manager:version:fixed_file_info:file_subtype:DRV_INSTALLABLE : 0.0
+lief:resources_manager:version:fixed_file_info:file_subtype:DRV_KEYBOARD : 0.0
+lief:resources_manager:version:fixed_file_info:file_subtype:DRV_LANGUAGE : 0.0
+lief:resources_manager:version:fixed_file_info:file_subtype:DRV_MOUSE : 0.0
+lief:resources_manager:version:fixed_file_info:file_subtype:DRV_NETWORK : 0.0
+lief:resources_manager:version:fixed_file_info:file_subtype:DRV_PRINTER : 0.0
+lief:resources_manager:version:fixed_file_info:file_subtype:DRV_SOUND : 0.0
+lief:resources_manager:version:fixed_file_info:file_subtype:DRV_SYSTEM : 0.0
+lief:resources_manager:version:fixed_file_info:file_subtype:DRV_VERSIONED_PRINTER : 0.0
+lief:resources_manager:version:fixed_file_info:file_subtype:Out of range : 0.0
+lief:resources_manager:version:fixed_file_info:file_date_MS : 0.0
+lief:resources_manager:version:fixed_file_info:file_date_LS : 0.0
+lief:resources_manager:icons:lang:INVARIANT : 0.0
+lief:resources_manager:icons:lang:AFRIKAANS : 0.0
+lief:resources_manager:icons:lang:ALBANIAN : 0.0
+lief:resources_manager:icons:lang:ARABIC : 0.0
+lief:resources_manager:icons:lang:ARMENIAN : 0.0
+lief:resources_manager:icons:lang:ASSAMESE : 0.0
+lief:resources_manager:icons:lang:AZERI : 0.0
+lief:resources_manager:icons:lang:BASQUE : 0.0
+lief:resources_manager:icons:lang:BELARUSIAN : 0.0
+lief:resources_manager:icons:lang:BANGLA : 0.0
+lief:resources_manager:icons:lang:BULGARIAN : 0.0
+lief:resources_manager:icons:lang:CATALAN : 0.0
+lief:resources_manager:icons:lang:CZECH : 0.0
+lief:resources_manager:icons:lang:DANISH : 0.0
+lief:resources_manager:icons:lang:DIVEHI : 0.0
+lief:resources_manager:icons:lang:DUTCH : 0.0
+lief:resources_manager:icons:lang:ESTONIAN : 0.0
+lief:resources_manager:icons:lang:FAEROESE : 0.0
+lief:resources_manager:icons:lang:FARSI : 0.0
+lief:resources_manager:icons:lang:FINNISH : 0.0
+lief:resources_manager:icons:lang:GALICIAN : 0.0
+lief:resources_manager:icons:lang:GEORGIAN : 0.0
+lief:resources_manager:icons:lang:GREEK : 0.0
+lief:resources_manager:icons:lang:GUJARATI : 0.0
+lief:resources_manager:icons:lang:HINDI : 0.0
+lief:resources_manager:icons:lang:HUNGARIAN : 0.0
+lief:resources_manager:icons:lang:ICELANDIC : 0.0
+lief:resources_manager:icons:lang:INDONESIAN : 0.0
+lief:resources_manager:icons:lang:ITALIAN : 0.0
+lief:resources_manager:icons:lang:JAPANESE : 0.0
+lief:resources_manager:icons:lang:KANNADA : 0.0
+lief:resources_manager:icons:lang:KASHMIRI : 0.0
+lief:resources_manager:icons:lang:KAZAK : 0.0
+lief:resources_manager:icons:lang:KONKANI : 0.0
+lief:resources_manager:icons:lang:KOREAN : 0.0
+lief:resources_manager:icons:lang:KYRGYZ : 0.0
+lief:resources_manager:icons:lang:LATVIAN : 0.0
+lief:resources_manager:icons:lang:LITHUANIAN : 0.0
+lief:resources_manager:icons:lang:MACEDONIAN : 0.0
+lief:resources_manager:icons:lang:MALAY : 0.0
+lief:resources_manager:icons:lang:MALAYALAM : 0.0
+lief:resources_manager:icons:lang:MANIPURI : 0.0
+lief:resources_manager:icons:lang:MARATHI : 0.0
+lief:resources_manager:icons:lang:MONGOLIAN : 0.0
+lief:resources_manager:icons:lang:NEPALI : 0.0
+lief:resources_manager:icons:lang:NORWEGIAN : 0.0
+lief:resources_manager:icons:lang:ORIYA : 0.0
+lief:resources_manager:icons:lang:POLISH : 0.0
+lief:resources_manager:icons:lang:PORTUGUESE : 0.0
+lief:resources_manager:icons:lang:PUNJABI : 0.0
+lief:resources_manager:icons:lang:ROMANIAN : 0.0
+lief:resources_manager:icons:lang:RUSSIAN : 0.0
+lief:resources_manager:icons:lang:SANSKRIT : 0.0
+lief:resources_manager:icons:lang:SINDHI : 0.0
+lief:resources_manager:icons:lang:SLOVAK : 0.0
+lief:resources_manager:icons:lang:SLOVENIAN : 0.0
+lief:resources_manager:icons:lang:SPANISH : 0.0
+lief:resources_manager:icons:lang:SWAHILI : 0.0
+lief:resources_manager:icons:lang:SWEDISH : 0.0
+lief:resources_manager:icons:lang:SYRIAC : 0.0
+lief:resources_manager:icons:lang:TAMIL : 0.0
+lief:resources_manager:icons:lang:TATAR : 0.0
+lief:resources_manager:icons:lang:TELUGU : 0.0
+lief:resources_manager:icons:lang:THAI : 0.0
+lief:resources_manager:icons:lang:TURKISH : 0.0
+lief:resources_manager:icons:lang:UKRAINIAN : 0.0
+lief:resources_manager:icons:lang:URDU : 0.0
+lief:resources_manager:icons:lang:UZBEK : 0.0
+lief:resources_manager:icons:lang:VIETNAMESE : 0.0
+lief:resources_manager:icons:lang:MALTESE : 0.0
+lief:resources_manager:icons:lang:MAORI : 0.0
+lief:resources_manager:icons:lang:RHAETO_ROMANCE : 0.0
+lief:resources_manager:icons:lang:SAMI : 0.0
+lief:resources_manager:icons:lang:SORBIAN : 0.0
+lief:resources_manager:icons:lang:SUTU : 0.0
+lief:resources_manager:icons:lang:TSONGA : 0.0
+lief:resources_manager:icons:lang:TSWANA : 0.0
+lief:resources_manager:icons:lang:VENDA : 0.0
+lief:resources_manager:icons:lang:XHOSA : 0.0
+lief:resources_manager:icons:lang:ZULU : 0.0
+lief:resources_manager:icons:lang:ESPERANTO : 0.0
+lief:resources_manager:icons:lang:WALON : 0.0
+lief:resources_manager:icons:lang:CORNISH : 0.0
+lief:resources_manager:icons:lang:WELSH : 0.0
+lief:resources_manager:icons:lang:BRETON : 0.0
+lief:resources_manager:icons:lang:INUKTITUT : 0.0
+lief:resources_manager:icons:lang:IRISH : 0.0
+lief:resources_manager:icons:lang:PULAR : 0.0
+lief:resources_manager:icons:lang:QUECHUA : 0.0
+lief:resources_manager:icons:lang:TAMAZIGHT : 0.0
+lief:resources_manager:icons:lang:TIGRINYA : 0.0
+lief:resources_manager:icons:lang:Out of range : 0.0
+lief:resources_manager:icons:sublang:AFRIKAANS_SOUTH_AFRICA : 0.0
+lief:resources_manager:icons:sublang:ALBANIAN_ALBANIA : 0.0
+lief:resources_manager:icons:sublang:ALSATIAN_FRANCE : 0.0
+lief:resources_manager:icons:sublang:AMHARIC_ETHIOPIA : 0.0
+lief:resources_manager:icons:sublang:ARABIC_ALGERIA : 0.0
+lief:resources_manager:icons:sublang:ARABIC_BAHRAIN : 0.0
+lief:resources_manager:icons:sublang:ARABIC_EGYPT : 0.0
+lief:resources_manager:icons:sublang:ARABIC_IRAQ : 0.0
+lief:resources_manager:icons:sublang:ARABIC_JORDAN : 0.0
+lief:resources_manager:icons:sublang:ARABIC_KUWAIT : 0.0
+lief:resources_manager:icons:sublang:ARABIC_LEBANON : 0.0
+lief:resources_manager:icons:sublang:ARABIC_LIBYA : 0.0
+lief:resources_manager:icons:sublang:ARABIC_MOROCCO : 0.0
+lief:resources_manager:icons:sublang:ARABIC_OMAN : 0.0
+lief:resources_manager:icons:sublang:ARABIC_QATAR : 0.0
+lief:resources_manager:icons:sublang:ARABIC_SAUDI_ARABIA : 0.0
+lief:resources_manager:icons:sublang:ARABIC_SYRIA : 0.0
+lief:resources_manager:icons:sublang:ARABIC_TUNISIA : 0.0
+lief:resources_manager:icons:sublang:ARABIC_UAE : 0.0
+lief:resources_manager:icons:sublang:ARABIC_YEMEN : 0.0
+lief:resources_manager:icons:sublang:ARMENIAN_ARMENIA : 0.0
+lief:resources_manager:icons:sublang:ASSAMESE_INDIA : 0.0
+lief:resources_manager:icons:sublang:AZERI_CYRILLIC : 0.0
+lief:resources_manager:icons:sublang:AZERI_LATIN : 0.0
+lief:resources_manager:icons:sublang:BASHKIR_RUSSIA : 0.0
+lief:resources_manager:icons:sublang:BASQUE_BASQUE : 0.0
+lief:resources_manager:icons:sublang:BELARUSIAN_BELARUS : 0.0
+lief:resources_manager:icons:sublang:BANGLA_BANGLADESH : 0.0
+lief:resources_manager:icons:sublang:BANGLA_INDIA : 0.0
+lief:resources_manager:icons:sublang:BOSNIAN_BOSNIA_HERZEGOVINA_CYRILLIC : 0.0
+lief:resources_manager:icons:sublang:BOSNIAN_BOSNIA_HERZEGOVINA_LATIN : 0.0
+lief:resources_manager:icons:sublang:BRETON_FRANCE : 0.0
+lief:resources_manager:icons:sublang:BULGARIAN_BULGARIA : 0.0
+lief:resources_manager:icons:sublang:CATALAN_CATALAN : 0.0
+lief:resources_manager:icons:sublang:CHINESE_HONGKONG : 0.0
+lief:resources_manager:icons:sublang:CHINESE_MACAU : 0.0
+lief:resources_manager:icons:sublang:CHINESE_SINGAPORE : 0.0
+lief:resources_manager:icons:sublang:CHINESE_TRADITIONAL : 0.0
+lief:resources_manager:icons:sublang:CORSICAN_FRANCE : 0.0
+lief:resources_manager:icons:sublang:CROATIAN_BOSNIA_HERZEGOVINA_LATIN : 0.0
+lief:resources_manager:icons:sublang:CUSTOM_DEFAULT : 0.0
+lief:resources_manager:icons:sublang:CUSTOM_UNSPECIFIED : 0.0
+lief:resources_manager:icons:sublang:CZECH_CZECH_REPUBLIC : 0.0
+lief:resources_manager:icons:sublang:DANISH_DENMARK : 0.0
+lief:resources_manager:icons:sublang:DARI_AFGHANISTAN : 0.0
+lief:resources_manager:icons:sublang:DIVEHI_MALDIVES : 0.0
+lief:resources_manager:icons:sublang:DUTCH_BELGIAN : 0.0
+lief:resources_manager:icons:sublang:DUTCH : 0.0
+lief:resources_manager:icons:sublang:ENGLISH_AUS : 0.0
+lief:resources_manager:icons:sublang:ENGLISH_BELIZE : 0.0
+lief:resources_manager:icons:sublang:ENGLISH_CARIBBEAN : 0.0
+lief:resources_manager:icons:sublang:ENGLISH_EIRE : 0.0
+lief:resources_manager:icons:sublang:ENGLISH_INDIA : 0.0
+lief:resources_manager:icons:sublang:ENGLISH_MALAYSIA : 0.0
+lief:resources_manager:icons:sublang:ENGLISH_NZ : 0.0
+lief:resources_manager:icons:sublang:ENGLISH_SINGAPORE : 0.0
+lief:resources_manager:icons:sublang:ENGLISH_SOUTH_AFRICA : 0.0
+lief:resources_manager:icons:sublang:ENGLISH_TRINIDAD : 0.0
+lief:resources_manager:icons:sublang:ENGLISH_ZIMBABWE : 0.0
+lief:resources_manager:icons:sublang:ENGLISH_IRELAND : 0.0
+lief:resources_manager:icons:sublang:ESTONIAN_ESTONIA : 0.0
+lief:resources_manager:icons:sublang:FAEROESE_FAROE_ISLANDS : 0.0
+lief:resources_manager:icons:sublang:FILIPINO_PHILIPPINES : 0.0
+lief:resources_manager:icons:sublang:FINNISH_FINLAND : 0.0
+lief:resources_manager:icons:sublang:FRENCH_BELGIAN : 0.0
+lief:resources_manager:icons:sublang:FRENCH_CANADIAN : 0.0
+lief:resources_manager:icons:sublang:FRENCH_LUXEMBOURG : 0.0
+lief:resources_manager:icons:sublang:FRENCH_MONACO : 0.0
+lief:resources_manager:icons:sublang:FRENCH_SWISS : 0.0
+lief:resources_manager:icons:sublang:FRISIAN_NETHERLANDS : 0.0
+lief:resources_manager:icons:sublang:GALICIAN_GALICIAN : 0.0
+lief:resources_manager:icons:sublang:GEORGIAN_GEORGIA : 0.0
+lief:resources_manager:icons:sublang:GERMAN_AUSTRIAN : 0.0
+lief:resources_manager:icons:sublang:GERMAN_LIECHTENSTEIN : 0.0
+lief:resources_manager:icons:sublang:GERMAN_LUXEMBOURG : 0.0
+lief:resources_manager:icons:sublang:GERMAN_SWISS : 0.0
+lief:resources_manager:icons:sublang:GREEK_GREECE : 0.0
+lief:resources_manager:icons:sublang:GREENLANDIC_GREENLAND : 0.0
+lief:resources_manager:icons:sublang:GUJARATI_INDIA : 0.0
+lief:resources_manager:icons:sublang:HAUSA_NIGERIA_LATIN : 0.0
+lief:resources_manager:icons:sublang:HEBREW_ISRAEL : 0.0
+lief:resources_manager:icons:sublang:HINDI_INDIA : 0.0
+lief:resources_manager:icons:sublang:HUNGARIAN_HUNGARY : 0.0
+lief:resources_manager:icons:sublang:ICELANDIC_ICELAND : 0.0
+lief:resources_manager:icons:sublang:IGBO_NIGERIA : 0.0
+lief:resources_manager:icons:sublang:INDONESIAN_INDONESIA : 0.0
+lief:resources_manager:icons:sublang:INUKTITUT_CANADA_LATIN : 0.0
+lief:resources_manager:icons:sublang:INUKTITUT_CANADA : 0.0
+lief:resources_manager:icons:sublang:IRISH_IRELAND : 0.0
+lief:resources_manager:icons:sublang:ITALIAN_SWISS : 0.0
+lief:resources_manager:icons:sublang:ITALIAN : 0.0
+lief:resources_manager:icons:sublang:JAPANESE_JAPAN : 0.0
+lief:resources_manager:icons:sublang:KANNADA_INDIA : 0.0
+lief:resources_manager:icons:sublang:KASHMIRI_INDIA : 0.0
+lief:resources_manager:icons:sublang:KASHMIRI_SASIA : 0.0
+lief:resources_manager:icons:sublang:KAZAK_KAZAKHSTAN : 0.0
+lief:resources_manager:icons:sublang:KHMER_CAMBODIA : 0.0
+lief:resources_manager:icons:sublang:KICHE_GUATEMALA : 0.0
+lief:resources_manager:icons:sublang:KINYARWANDA_RWANDA : 0.0
+lief:resources_manager:icons:sublang:KONKANI_INDIA : 0.0
+lief:resources_manager:icons:sublang:KOREAN : 0.0
+lief:resources_manager:icons:sublang:KYRGYZ_KYRGYZSTAN : 0.0
+lief:resources_manager:icons:sublang:LAO_LAO : 0.0
+lief:resources_manager:icons:sublang:LATVIAN_LATVIA : 0.0
+lief:resources_manager:icons:sublang:LITHUANIAN_CLASSIC : 0.0
+lief:resources_manager:icons:sublang:LITHUANIAN : 0.0
+lief:resources_manager:icons:sublang:LOWER_SORBIAN_GERMANY : 0.0
+lief:resources_manager:icons:sublang:LUXEMBOURGISH_LUXEMBOURG : 0.0
+lief:resources_manager:icons:sublang:MACEDONIAN_MACEDONIA : 0.0
+lief:resources_manager:icons:sublang:MALAY_BRUNEI_DARUSSALAM : 0.0
+lief:resources_manager:icons:sublang:MALAY_MALAYSIA : 0.0
+lief:resources_manager:icons:sublang:MALAYALAM_INDIA : 0.0
+lief:resources_manager:icons:sublang:MALTESE_MALTA : 0.0
+lief:resources_manager:icons:sublang:MAORI_NEW_ZEALAND : 0.0
+lief:resources_manager:icons:sublang:MAPUDUNGUN_CHILE : 0.0
+lief:resources_manager:icons:sublang:MARATHI_INDIA : 0.0
+lief:resources_manager:icons:sublang:MOHAWK_MOHAWK : 0.0
+lief:resources_manager:icons:sublang:MONGOLIAN_CYRILLIC_MONGOLIA : 0.0
+lief:resources_manager:icons:sublang:MONGOLIAN_PRC : 0.0
+lief:resources_manager:icons:sublang:NEPALI_INDIA : 0.0
+lief:resources_manager:icons:sublang:NEPALI_NEPAL : 0.0
+lief:resources_manager:icons:sublang:NEUTRAL : 0.0
+lief:resources_manager:icons:sublang:NORWEGIAN_BOKMAL : 0.0
+lief:resources_manager:icons:sublang:NORWEGIAN_NYNORSK : 0.0
+lief:resources_manager:icons:sublang:OCCITAN_FRANCE : 0.0
+lief:resources_manager:icons:sublang:ORIYA_INDIA : 0.0
+lief:resources_manager:icons:sublang:PASHTO_AFGHANISTAN : 0.0
+lief:resources_manager:icons:sublang:PERSIAN_IRAN : 0.0
+lief:resources_manager:icons:sublang:POLISH_POLAND : 0.0
+lief:resources_manager:icons:sublang:PORTUGUESE_BRAZILIAN : 0.0
+lief:resources_manager:icons:sublang:PORTUGUESE : 0.0
+lief:resources_manager:icons:sublang:PUNJABI_INDIA : 0.0
+lief:resources_manager:icons:sublang:QUECHUA_BOLIVIA : 0.0
+lief:resources_manager:icons:sublang:QUECHUA_ECUADOR : 0.0
+lief:resources_manager:icons:sublang:QUECHUA_PERU : 0.0
+lief:resources_manager:icons:sublang:ROMANIAN_ROMANIA : 0.0
+lief:resources_manager:icons:sublang:ROMANSH_SWITZERLAND : 0.0
+lief:resources_manager:icons:sublang:RUSSIAN_RUSSIA : 0.0
+lief:resources_manager:icons:sublang:SAMI_INARI_FINLAND : 0.0
+lief:resources_manager:icons:sublang:SAMI_LULE_NORWAY : 0.0
+lief:resources_manager:icons:sublang:SAMI_LULE_SWEDEN : 0.0
+lief:resources_manager:icons:sublang:SAMI_NORTHERN_FINLAND : 0.0
+lief:resources_manager:icons:sublang:SAMI_NORTHERN_NORWAY : 0.0
+lief:resources_manager:icons:sublang:SAMI_NORTHERN_SWEDEN : 0.0
+lief:resources_manager:icons:sublang:SAMI_SKOLT_FINLAND : 0.0
+lief:resources_manager:icons:sublang:SAMI_SOUTHERN_NORWAY : 0.0
+lief:resources_manager:icons:sublang:SAMI_SOUTHERN_SWEDEN : 0.0
+lief:resources_manager:icons:sublang:SANSKRIT_INDIA : 0.0
+lief:resources_manager:icons:sublang:SERBIAN_BOSNIA_HERZEGOVINA_CYRILLIC : 0.0
+lief:resources_manager:icons:sublang:SERBIAN_BOSNIA_HERZEGOVINA_LATIN : 0.0
+lief:resources_manager:icons:sublang:SERBIAN_CROATIA : 0.0
+lief:resources_manager:icons:sublang:SERBIAN_CYRILLIC : 0.0
+lief:resources_manager:icons:sublang:SERBIAN_LATIN : 0.0
+lief:resources_manager:icons:sublang:SINDHI_AFGHANISTAN : 0.0
+lief:resources_manager:icons:sublang:SINDHI_INDIA : 0.0
+lief:resources_manager:icons:sublang:SINDHI_PAKISTAN : 0.0
+lief:resources_manager:icons:sublang:SINHALESE_SRI_LANKA : 0.0
+lief:resources_manager:icons:sublang:SLOVAK_SLOVAKIA : 0.0
+lief:resources_manager:icons:sublang:SLOVENIAN_SLOVENIA : 0.0
+lief:resources_manager:icons:sublang:SOTHO_NORTHERN_SOUTH_AFRICA : 0.0
+lief:resources_manager:icons:sublang:SPANISH_ARGENTINA : 0.0
+lief:resources_manager:icons:sublang:SPANISH_BOLIVIA : 0.0
+lief:resources_manager:icons:sublang:SPANISH_CHILE : 0.0
+lief:resources_manager:icons:sublang:SPANISH_COLOMBIA : 0.0
+lief:resources_manager:icons:sublang:SPANISH_COSTA_RICA : 0.0
+lief:resources_manager:icons:sublang:SPANISH_DOMINICAN_REPUBLIC : 0.0
+lief:resources_manager:icons:sublang:SPANISH_ECUADOR : 0.0
+lief:resources_manager:icons:sublang:SPANISH_EL_SALVADOR : 0.0
+lief:resources_manager:icons:sublang:SPANISH_GUATEMALA : 0.0
+lief:resources_manager:icons:sublang:SPANISH_HONDURAS : 0.0
+lief:resources_manager:icons:sublang:SPANISH_MEXICAN : 0.0
+lief:resources_manager:icons:sublang:SPANISH_MODERN : 0.0
+lief:resources_manager:icons:sublang:SPANISH_NICARAGUA : 0.0
+lief:resources_manager:icons:sublang:SPANISH_PANAMA : 0.0
+lief:resources_manager:icons:sublang:SPANISH_PARAGUAY : 0.0
+lief:resources_manager:icons:sublang:SPANISH_PERU : 0.0
+lief:resources_manager:icons:sublang:SPANISH_PUERTO_RICO : 0.0
+lief:resources_manager:icons:sublang:SPANISH_URUGUAY : 0.0
+lief:resources_manager:icons:sublang:SPANISH_US : 0.0
+lief:resources_manager:icons:sublang:SPANISH_VENEZUELA : 0.0
+lief:resources_manager:icons:sublang:SPANISH : 0.0
+lief:resources_manager:icons:sublang:SWAHILI_KENYA : 0.0
+lief:resources_manager:icons:sublang:SWEDISH_FINLAND : 0.0
+lief:resources_manager:icons:sublang:SWEDISH : 0.0
+lief:resources_manager:icons:sublang:SYRIAC_SYRIA : 0.0
+lief:resources_manager:icons:sublang:SYS_DEFAULT : 0.0
+lief:resources_manager:icons:sublang:TAJIK_TAJIKISTAN : 0.0
+lief:resources_manager:icons:sublang:TAMAZIGHT_ALGERIA_LATIN : 0.0
+lief:resources_manager:icons:sublang:TAMIL_INDIA : 0.0
+lief:resources_manager:icons:sublang:TATAR_RUSSIA : 0.0
+lief:resources_manager:icons:sublang:TELUGU_INDIA : 0.0
+lief:resources_manager:icons:sublang:THAI_THAILAND : 0.0
+lief:resources_manager:icons:sublang:TIBETAN_PRC : 0.0
+lief:resources_manager:icons:sublang:TIGRIGNA_ERITREA : 0.0
+lief:resources_manager:icons:sublang:TSWANA_SOUTH_AFRICA : 0.0
+lief:resources_manager:icons:sublang:TURKISH_TURKEY : 0.0
+lief:resources_manager:icons:sublang:TURKMEN_TURKMENISTAN : 0.0
+lief:resources_manager:icons:sublang:UI_CUSTOM_DEFAULT : 0.0
+lief:resources_manager:icons:sublang:UIGHUR_PRC : 0.0
+lief:resources_manager:icons:sublang:UKRAINIAN_UKRAINE : 0.0
+lief:resources_manager:icons:sublang:UPPER_SORBIAN_GERMANY : 0.0
+lief:resources_manager:icons:sublang:URDU_INDIA : 0.0
+lief:resources_manager:icons:sublang:URDU_PAKISTAN : 0.0
+lief:resources_manager:icons:sublang:UZBEK_CYRILLIC : 0.0
+lief:resources_manager:icons:sublang:UZBEK_LATIN : 0.0
+lief:resources_manager:icons:sublang:VIETNAMESE_VIETNAM : 0.0
+lief:resources_manager:icons:sublang:WELSH_UNITED_KINGDOM : 0.0
+lief:resources_manager:icons:sublang:WOLOF_SENEGAL : 0.0
+lief:resources_manager:icons:sublang:XHOSA_SOUTH_AFRICA : 0.0
+lief:resources_manager:icons:sublang:YAKUT_RUSSIA : 0.0
+lief:resources_manager:icons:sublang:YI_PRC : 0.0
+lief:resources_manager:icons:sublang:YORUBA_NIGERIA : 0.0
+lief:resources_manager:icons:sublang:ZULU_SOUTH_AFRICA : 0.0
+lief:resources_manager:icons:sublang:PUNJABI_PAKISTAN : 0.0
+lief:resources_manager:icons:sublang:TSWANA_BOTSWANA : 0.0
+lief:resources_manager:icons:sublang:TAMIL_SRI_LANKA : 0.0
+lief:resources_manager:icons:sublang:TIGRINYA_ETHIOPIA : 0.0
+lief:resources_manager:icons:sublang:TIGRINYA_ERITREA : 0.0
+lief:resources_manager:icons:sublang:VALENCIAN_VALENCIA : 0.0
+lief:signature:version : 0.0
+lief:signature:signer_info:version : 0.0
+lief:symbols:base_type:SHORT : 0.0
+lief:symbols:base_type:INT : 0.0
+lief:symbols:base_type:LONG : 0.0
+lief:symbols:base_type:DOUBLE : 0.0
+lief:symbols:base_type:STRUCT : 0.0
+lief:symbols:base_type:ENUM : 0.0
+lief:symbols:base_type:MOE : 0.0
+lief:symbols:base_type:BYTE : 0.0
+lief:symbols:base_type:WORD : 0.0
+lief:symbols:base_type:UINT : 0.0
+lief:symbols:base_type:DWORD : 0.0
+lief:symbols:base_type:Out of range : 0.0
+lief:symbols:complex_type:POINTER : 0.0
+lief:symbols:complex_type:FUNCTION : 0.0
+lief:symbols:storage_class:END_OF_FUNCTION : 0.0
+lief:symbols:storage_class:NULL : 0.0
+lief:symbols:storage_class:AUTOMATIC : 0.0
+lief:symbols:storage_class:EXTERNAL : 0.0
+lief:symbols:storage_class:STATIC : 0.0
+lief:symbols:storage_class:REGISTER : 0.0
+lief:symbols:storage_class:EXTERNAL_DEF : 0.0
+lief:symbols:storage_class:LABEL : 0.0
+lief:symbols:storage_class:UNDEFINED_LABEL : 0.0
+lief:symbols:storage_class:UNION_TAG : 0.0
+lief:symbols:storage_class:TYPE_DEFINITION : 0.0
+lief:symbols:storage_class:UDEFINED_STATIC : 0.0
+lief:symbols:storage_class:ENUM_TAG : 0.0
+lief:symbols:storage_class:MEMBER_OF_ENUM : 0.0
+lief:symbols:storage_class:REGISTER_PARAM : 0.0
+lief:symbols:storage_class:BIT_FIELD : 0.0
+lief:symbols:storage_class:BLOCK : 0.0
+lief:symbols:storage_class:FUNCTION : 0.0
+lief:symbols:storage_class:END_OF_STRUCT : 0.0
+lief:symbols:storage_class:SECTION : 0.0
+lief:symbols:storage_class:WEAK_EXTERNAL : 0.0
+lief:symbols:storage_class:CLR_TOKEN : 0.0
+lief:load_configuration:version:WIN_8_1 : 0.0
+lief:load_configuration:version:WIN10_0_9879 : 0.0
+lief:load_configuration:version:WIN10_0_14286 : 0.0
+lief:load_configuration:version:WIN10_0_14383 : 0.0
+lief:load_configuration:version:WIN10_0_14901 : 0.0
+lief:load_configuration:version:WIN10_0_15002 : 0.0
+lief:load_configuration:guard_cf_function_table : 0.0
+lief:load_configuration:guard_flags:CFW_INSTRUMENTED : 0.0
+lief:load_configuration:guard_flags:CF_FUNCTION_TABLE_PRESENT : 0.0
+lief:load_configuration:guard_flags:SECURITY_COOKIE_UNUSED : 0.0
+lief:load_configuration:guard_flags:DELAYLOAD_IAT_IN_ITS_OWN_SECTION : 0.0
+lief:load_configuration:guard_flags:CF_EXPORT_SUPPRESSION_INFO_PRESENT : 0.0
+lief:load_configuration:guard_flags:CF_ENABLE_EXPORT_SUPPRESSION : 0.0
+lief:load_configuration:guard_flags:CF_LONGJUMP_TABLE_PRESENT : 0.0
+lief:load_configuration:code_integrity:flags : 0.0
+lief:load_configuration:code_integrity:catalog : 0.0
+lief:load_configuration:code_integrity:catalog_offset : 0.0
+lief:load_configuration:code_integrity:reserved : 0.0
+lief:load_configuration:guard_address_taken_iat_entry_table : 0.0
+lief:load_configuration:guard_address_taken_iat_entry_count : 0.0
+lief:load_configuration:guard_long_jump_target_table : 0.0
+lief:load_configuration:guard_long_jump_target_count : 0.0
+lief:load_configuration:dynamic_value_reloc_table : 0.0
+lief:load_configuration:hybrid_metadata_pointer : 0.0
+lief:load_configuration:guard_rf_failure_routine : 0.0
+lief:load_configuration:guard_rf_failure_routine_function_pointer : 0.0
+lief:load_configuration:dynamic_value_reloctable_offset : 0.0
+lief:load_configuration:dynamic_value_reloctable_section : 0.0
+lief:load_configuration:reserved2 : 0.0
+lief:load_configuration:guard_rf_verify_stackpointer_function_pointer : 0.0
+lief:load_configuration:hotpatch_table_offset : 0.0
+lief:load_configuration:reserved3 : 0.0
+lief:load_configuration:addressof_unicode_string : 0.0

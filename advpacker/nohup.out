@@ -1,0 +1,493 @@
+/home/cuckoo/.local/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1318: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+1775
+Best parameters set found on development set: {'max_depth': 60, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+1775
+PackDataset :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      135 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  1.0
+recall :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+precision :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+1775
+advpacker :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   133 |                  0 |                0 |
+| FSG              |        0 |               0 |   134 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                1 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       81 |        4 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      133 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  0.9006479481641468
+recall :  [1.         0.         0.99259259 1.         0.95294118 1.
+ 1.         1.         1.         1.         1.        ]
+precision :  [1.         0.         1.         1.         1.         0.96923077
+ 1.         1.         0.48249027 1.         0.99259259]
+
+1775
+Traceback (most recent call last):
+  File "idpack.py", line 85, in <module>
+    prin('\n', 'dos')
+NameError: name 'prin' is not defined
+1775
+
+ dos
+Best parameters set found on development set: {'max_depth': 60, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 600}
+1775
+PackDataset :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      135 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  1.0
+recall :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+precision :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+1775
+advpacker :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   134 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                1 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      133 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  0.9992800575953924
+recall :  [1.         1.         0.99259259 1.         1.         1.
+ 1.         1.         1.         1.         1.        ]
+precision :  [1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         0.99259259]
+
+1775
+
+secname
+Best parameters set found on development set: {'max_depth': 150, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+1775
+PackDataset :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      135 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  1.0
+recall :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+precision :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+1775
+advpacker :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      133 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  1 |              129 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  0.9071274298056156
+recall :  [1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         0.00769231 1.        ]
+precision :  [1.        1.        1.        1.        1.        1.        1.
+ 1.        1.        1.        0.5095057]
+
+1775
+
+secname
+Best parameters set found on development set: {'max_depth': 90, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+1775
+PackDataset :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      135 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  1.0
+recall :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+precision :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+1775
+advpacker :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      133 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        4 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  5 |              121 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  0.9100071994240461
+recall :  [1.         1.         1.         1.         1.         1.
+ 1.         1.         1.         0.03846154 1.        ]
+precision :  [0.97014925 1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         0.5254902 ]
+
+/home/cuckoo/.local/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1318: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+1775
+
+dos_and_secname
+Best parameters set found on development set: {'max_depth': 60, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+1775
+PackDataset :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      135 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  1.0
+recall :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+precision :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+1775
+advpacker :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        1 |    47 |                  0 |               85 |
+| FSG              |        0 |               0 |   111 |     0 |        0 |        0 |         3 |        0 |     0 |                  0 |               21 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       21 |        0 |        49 |        0 |     0 |                  0 |               15 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      133 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        4 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                 49 |               77 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  0.7825773938084953
+recall :  [1.         0.         0.82222222 1.         0.24705882 1.
+ 1.         1.         1.         0.37692308 1.        ]
+precision :  [0.97014925 0.         1.         1.         1.         1.
+ 0.71428571 0.99253731 0.7251462  1.         0.40361446]
+
+1775
+
+sec_chr
+Best parameters set found on development set: {'max_depth': 60, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+1775
+PackDataset :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      135 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  1.0
+recall :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+precision :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+1775
+advpacker :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      133 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  1.0
+recall :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+precision :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+/home/cuckoo/.local/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1318: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+1775
+
+dos_and_sec_name_and_chr
+Best parameters set found on development set: {'max_depth': 60, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+1775
+PackDataset :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      135 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  1.0
+recall :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+precision :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+1775
+advpacker :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        2 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              131 |
+| FSG              |        0 |               0 |     0 |     0 |        0 |        0 |        55 |        0 |     0 |                  0 |               80 |
+| MEW              |        0 |               0 |     0 |    68 |        0 |        0 |        61 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        1 |               0 |     0 |     0 |        4 |        0 |        68 |        0 |     0 |                  0 |               12 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      133 |     0 |                  0 |                0 |
+| UPX              |        5 |               0 |     0 |     0 |        0 |        0 |         1 |        0 |   118 |                  0 |                0 |
+| Yoda's Protector |       64 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |               66 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  0.6069114470842333
+recall :  [1.         0.         0.         0.52713178 0.04705882 1.
+ 1.         1.         0.9516129  0.         1.        ]
+precision :  [0.64356436 0.         0.         1.         1.         1.
+ 0.41269841 1.         1.         0.         0.31678487]
+
+/home/cuckoo/.local/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1318: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+1775
+
+sec_name_and_chr
+Best parameters set found on development set: {'max_depth': 60, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+1775
+PackDataset :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      135 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  1.0
+recall :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+precision :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+1775
+advpacker :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      133 |     0 |                  0 |                0 |
+| UPX              |        2 |               0 |     0 |     0 |        0 |        0 |         4 |        0 |   118 |                  0 |                0 |
+| Yoda's Protector |       42 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |               88 |
+| Yoda's Crypter   |        1 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              133 |
+accuracy :  0.9013678905687545
+recall :  [1.         1.         1.         1.         1.         1.
+ 1.         1.         0.9516129  0.         0.99253731]
+precision :  [0.74285714 1.         1.         1.         1.         1.
+ 0.97014925 1.         1.         0.         0.60180995]
+
+1775
+
+dos_and_sec_chr
+Best parameters set found on development set: {'max_depth': 60, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 600}
+1775
+PackDataset :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      135 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  1.0
+recall :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+precision :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+1775
+advpacker :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   123 |     0 |        0 |       11 |         0 |        0 |     0 |                  0 |                1 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       83 |        0 |         0 |        0 |     0 |                  0 |                2 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      133 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  0.9899208063354932
+recall :  [1.         1.         0.91111111 1.         0.97647059 1.
+ 1.         1.         1.         1.         1.        ]
+precision :  [1.         1.         1.         1.         1.         0.91970803
+ 1.         1.         1.         1.         0.97810219]
+
+1775
+
+import
+Best parameters set found on development set: {'max_depth': 60, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+1775
+PackDataset :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      135 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  1.0
+recall :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+precision :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+1775
+advpacker :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      133 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  1.0
+recall :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+precision :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+/home/cuckoo/.local/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1318: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+1775
+
+dos_sname_schr_import
+Best parameters set found on development set: {'max_depth': 90, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+1775
+PackDataset :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |      130 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |             133 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| FSG              |        0 |               0 |   135 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MEW              |        0 |               0 |     0 |   129 |        0 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |       85 |        0 |         0 |        0 |     0 |                  0 |                0 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |      126 |         0 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |        0 |         0 |      135 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |   124 |                  0 |                0 |
+| Yoda's Protector |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                130 |                0 |
+| Yoda's Crypter   |        0 |               0 |     0 |     0 |        0 |        0 |         0 |        0 |     0 |                  0 |              134 |
+accuracy :  1.0
+recall :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+precision :  [1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1.]
+
+1775
+advpacker :
+|                  |   ASPack |   BeRoEXEPacker |   FSG |   MEW |   MPRESS |   PEtite |   Packman |   RLPack |   UPX |   Yoda's Protector |   Yoda's Crypter |
+|:-----------------|---------:|----------------:|------:|------:|---------:|---------:|----------:|---------:|------:|-------------------:|-----------------:|
+| ASPack           |       40 |               0 |     0 |     0 |        0 |        0 |        90 |        0 |     0 |                  0 |                0 |
+| BeRoEXEPacker    |        0 |               0 |     0 |     0 |        0 |      118 |        10 |        0 |     0 |                  0 |                5 |
+| FSG              |        0 |               0 |     0 |     0 |        0 |      105 |        27 |        0 |     0 |                  0 |                3 |
+| MEW              |        0 |               0 |     0 |     2 |        0 |      126 |         1 |        0 |     0 |                  0 |                0 |
+| MPRESS           |        0 |               0 |     0 |     0 |        1 |       14 |        65 |        0 |     0 |                  0 |                5 |
+| PEtite           |        0 |               0 |     0 |     0 |        0 |       58 |        68 |        0 |     0 |                  0 |                0 |
+| Packman          |        0 |               0 |     0 |     0 |        0 |        0 |       130 |        0 |     0 |                  0 |                0 |
+| RLPack           |        0 |               0 |     0 |     0 |        0 |       49 |         0 |       84 |     0 |                  0 |                0 |
+| UPX              |        0 |               0 |     0 |     0 |        0 |       40 |        37 |        0 |    47 |                  0 |                0 |
+| Yoda's Protector |        5 |               0 |     0 |     0 |        0 |        0 |        83 |        0 |     0 |                  0 |               42 |
+| Yoda's Crypter   |        1 |               0 |     0 |     0 |        0 |        0 |        37 |        0 |     0 |                  0 |               96 |
+accuracy :  0.32973362131029516
+recall :  [0.30769231 0.         0.         0.01550388 0.01176471 0.46031746
+ 1.         0.63157895 0.37903226 0.         0.71641791]
+precision :  [0.86956522 0.         0.         1.         1.         0.11372549
+ 0.23722628 1.         1.         0.         0.63576159]
+

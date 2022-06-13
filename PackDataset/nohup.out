@@ -1,0 +1,74 @@
+/home/cuckoo/.local/lib/python3.8/site-packages/sklearn/model_selection/_search.py:847: FutureWarning: The parameter 'iid' is deprecated in 0.22 and will be removed in 0.24.
+  warnings.warn(
+dt_header: 0.5239000849542208
+Best parameters set found on development set: {'max_depth': 60, 'min_samples_leaf': 1, 'min_samples_split': 2}
+[[122   0   0   0   0   0   1   3   3   0   0   0   6]
+ [  0 119   0   0   0   0   0   3   0   0   0   0   6]
+ [  0   0 134   0   0   0   0   0   0   0   0   0   0]
+ [  0   0   0 135   0   0   0   0   0   0   0   0   0]
+ [  0   0   0   0 128   0   0   0   0   0   0   0   0]
+ [  0   0   1   0   0  77   2   1   0   0   0   0   0]
+ [  0   0   0   0   0   1 122   0   0   0   0   0   1]
+ [  0   7   0   0   0   0   1 112   0   0   0   0   8]
+ [  4   0   0   0   0   0   0   0 131   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0 124   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0 135   0   0]
+ [  0   2   0   0   0   0   0   0   0   0   0 125   1]
+ [ 10   5   0   0   0   0   0   5   0   0   0   3 109]]
+0.9550698239222829
+[0.9037037  0.9296875  1.         1.         1.         0.95061728
+ 0.98387097 0.875      0.97037037 1.         1.         0.9765625
+ 0.82575758]
+[0.89705882 0.89473684 0.99259259 1.         1.         0.98717949
+ 0.96825397 0.90322581 0.97761194 1.         1.         0.9765625
+ 0.83206107]
+/home/cuckoo/.local/lib/python3.8/site-packages/sklearn/model_selection/_search.py:847: FutureWarning: The parameter 'iid' is deprecated in 0.22 and will be removed in 0.24.
+  warnings.warn(
+1823
+rf_surf: 242.20138778997352
+242.20138778997352
+Best parameters set found on development set: {'max_depth': 60, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 300}
+[[135   0   0   0   0   0   0   0   0   0   0   0   0]
+ [  0 128   0   0   0   0   0   0   0   0   0   0   0]
+ [  0   0 134   0   0   0   0   0   0   0   0   0   0]
+ [  0   0   0 135   0   0   0   0   0   0   0   0   0]
+ [  0   0   0   0 128   0   0   0   0   0   0   0   0]
+ [  0   0   0   0   0  81   0   0   0   0   0   0   0]
+ [  0   0   0   0   0   0 124   0   0   0   0   0   0]
+ [  0   0   0   0   0   0   0 128   0   0   0   0   0]
+ [  2   0   0   0   0   0   0   0 133   0   0   0   0]
+ [  0   0   0   0   0   0   0   0   0 124   0   0   0]
+ [  0   0   0   0   0   0   0   0   0   0 135   0   0]
+ [  0   0   0   0   0   0   0   0   0   0   0 128   0]
+ [  0   0   0   0   0   0   0   0   0   0   0   0 132]]
+0.9987856709168185
+[1.         1.         1.         1.         1.         1.
+ 1.         1.         0.98518519 1.         1.         1.
+ 1.        ]
+[0.98540146 1.         1.         1.         1.         1.
+ 1.         1.         1.         1.         1.         1.
+ 1.        ]
+/home/cuckoo/.local/lib/python3.8/site-packages/sklearn/model_selection/_search.py:847: FutureWarning: The parameter 'iid' is deprecated in 0.22 and will be removed in 0.24.
+  warnings.warn(
+rf_entsec: 790.5624071999919
+Best parameters set found on development set: {'max_depth': 200, 'min_samples_leaf': 1, 'min_samples_split': 2, 'n_estimators': 600}
+[[130   1   0   0   0   0   0   0   0   0   4   0   0]
+ [  0 116   0   0   1   0   0   0   0   0   0  10   1]
+ [  0   0 122   7   2   3   0   0   0   0   0   0   0]
+ [  1   0   0 125   4   0   0   1   3   0   1   0   0]
+ [  0   2   4   5 106   4   0   1   0   0   6   0   0]
+ [  0   6   2   0   1  56   0   0   0   0   0  15   1]
+ [  0   0   0   0   0   0 124   0   0   0   0   0   0]
+ [  0   1   0   2   0   0   0 125   0   0   0   0   0]
+ [  5   0   0   8   2   0   0   0 116   0   4   0   0]
+ [  0   0   0   0   0   0   0   0   0 124   0   0   0]
+ [  1   4   5   0   7   4   0   0   0   0 113   0   1]
+ [  0   0   0   0   0   0   0   0   0   0   0 127   1]
+ [  1   2   0   0   0   0   0   1   0   0   0  10 118]]
+0.9119611414693382
+[0.96296296 0.90625    0.91044776 0.92592593 0.828125   0.69135802
+ 1.         0.9765625  0.85925926 1.         0.83703704 0.9921875
+ 0.89393939]
+[0.94202899 0.87878788 0.91729323 0.85034014 0.86178862 0.8358209
+ 1.         0.9765625  0.97478992 1.         0.8828125  0.78395062
+ 0.96721311]

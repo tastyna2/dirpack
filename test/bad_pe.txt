@@ -1,0 +1,14 @@
+Mode2CDMaker.exe
+bzip2.exe
+bzz.exe
+dat2file.exe
+djvmcvt.exe
+djvuextract.exe
+file-compressor.exe
+gimptool-2.0.exe
+gpgme-w32spawn.exe
+gspawn-win32-helper-console.exe
+gspawn-win32-helper.exe
+rrdec.exe
+rrenc.exe
+zlib-flate.exe
